@@ -1,4 +1,4 @@
-[
+{"books":[
   {
     "title": "Saya Novel",
     "coverImageSourceUrl": "http://4.bp.blogspot.com/-z41q49T98jM/VAiazTxNhRI/AAAAAAAACf8/HSQVniJJ61c/s320/%2B%2Bsaya%2B%2B%2BNovel.jpeg",
@@ -579,4 +579,4 @@
     "coverImageSourceUrl": "http://2.bp.blogspot.com/-jLWTOUipPZo/VO7g7alLplI/AAAAAAAACvY/RQaBpRjyidM/s200/%2B%2BAmaa%2B%2B%2BJanuhos.JPG",
     "chapters": []
   }
-]
+]}
