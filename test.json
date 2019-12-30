@@ -1,583 +1,2992 @@
-{
-  "books":[
+[
   {
     "title": "Saya Novel",
     "coverImageSourceUrl": "http://4.bp.blogspot.com/-z41q49T98jM/VAiazTxNhRI/AAAAAAAACf8/HSQVniJJ61c/s320/%2B%2Bsaya%2B%2B%2BNovel.jpeg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Saya Novel Full Audio",
+        "audioSource": "https://ia601509.us.archive.org/5/items/FullNovel-Saya-SubinBhattraiChisapaniNepal/Full%20Novel-%20Saya%20-Subin%20Bhattrai%20(Chisapani%20Nepal).mp3"
+      }
+    ]
   },
   {
     "title": "Likhe Novel",
     "coverImageSourceUrl": "http://3.bp.blogspot.com/-cAEpB3la_oM/VQ9ypXOf5-I/AAAAAAAACxw/j5mRR9XXq1U/s200/%2B%2Blikhe%2BNovel.JPG",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://ia601506.us.archive.org/18/items/SaradPoudelLikhe/Sarad%20Poudel%20-%20Likhe%20-%2001%20-%20Shruti-Sambeg%20-2015-03-06.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://ia601506.us.archive.org/18/items/SaradPoudelLikhe/Sarad%20Poudel%20-%20Likhe%20-%2002%20-%20Shruti-Sambeg%20-2015-03-13.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://ia601506.us.archive.org/18/items/SaradPoudelLikhe/SaradPoudel-Likhe-03-Shruti-sambeg-2015-03-20.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://archive.org/download/SaradPoudelLikhe/SaradPoudel-Likhe-04-Shruti-sambeg-2015-03-27.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://archive.org/download/SaradPoudelLikhe/SaradPoudel-Likhe-05-Shruti-sambeg-2015-04-03.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/SaradPoudelLikhe/SaradPoudel-Likhe-06-Shruti-sambeg-2015-04-10.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "https://archive.org/download/SaradPoudelLikhe/SaradPoudel-Likhe-07-Shruti-sambeg-2015-04-17.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "https://archive.org/download/SaradPoudelLikhe/SaradPoudel-Likhe-08-Shruti-sambeg-2015-04-24.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "https://archive.org/download/SaradPoudelLikhe/SaradPoudel-Likhe-09-Shruti-sambeg-2015-05-08.mp3"
+      },
+      {
+        "title": "Part-10",
+        "audioSource": "https://archive.org/download/SaradPoudelLikhe/SaradPoudel-Likhe-10-Shruti-sambeg-2015-05-22.mp3"
+      },
+      {
+        "title": "Part-11",
+        "audioSource": "https://archive.org/download/SaradPoudelLikhe/SaradPoudel-Likhe-11-Shruti-sambeg-2015-05-29.mp3"
+      },
+      {
+        "title": "Part-12",
+        "audioSource": "https://archive.org/download/SaradPoudelLikhe/SaradPoudel-Likhe-12-Shruti-sambeg-2015_06_05.mp3"
+      },
+      {
+        "title": "Part-13",
+        "audioSource": "https://archive.org/download/SaradPoudelLikhe/SaradPoudel-Likhe-13-Shruti-sambeg-2015-06-12.mp3"
+      },
+      {
+        "title": "Part-14",
+        "audioSource": "https://archive.org/download/SaradPoudelLikhe/SaradPoudel-Likhe-14-Shruti-sambeg-2015-06-19.mp3"
+      },
+      {
+        "title": "Part-15",
+        "audioSource": "https://archive.org/download/SaradPoudelLikhe/SaradPoudel-Likhe-15-Shruti-sambeg-2015-06-26.mp3"
+      },
+      {
+        "title": "Part-16",
+        "audioSource": "https://ia601502.us.archive.org/33/items/Episode16NovelLikheBySharadPaudel20150703ChisapaniNepal/Episode%2016-%20Novel%20Likhe%20by%20Sharad%20Paudel-2015-07-03%20(Chisapani%20Nepal).mp3"
+      }
+    ]
   },
   {
     "title": "Siddhartha Novel",
     "coverImageSourceUrl": "http://3.bp.blogspot.com/-bMwmus3yGtc/VVoHQuBt3ZI/AAAAAAAACy4/z_nUZh_DVto/s320/Siddhartha%2BNovel%2BHermann%2BHesse.JPG",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://archive.org/download/HermanHesseSiddhartha/Herman%20Hesse%20-%20Siddhartha%20-%2001%20-%20Shruti-Sambeg%20-2015-05-12.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/HermanHesseSiddhartha/HermanHesse-Siddhartha-02-Shruti-sambeg-2015-05-19.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/HermanHesseSiddhartha/HermanHesse-Siddhartha-03-Shruti-sambeg-2015_05_26.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://archive.org/download/HermanHesseSiddhartha/HermanHesse-Siddhartha-04-Shruti-sambeg-2015_06_02.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://archive.org/download/HermanHesseSiddhartha/HermanHesse-Siddhartha-05-Shruti-sambeg-2015_06_09.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/HermanHesseSiddhartha/HermanHesse-Siddhartha-06-Shruti-sambeg-2015-06-16.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "https://archive.org/download/HermanHesseSiddhartha/HermanHesse-Siddhartha-07-Shruti-sambeg-2015-06-23.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "https://archive.org/download/HermanHesseSiddhartha/HermanHesse-Siddhartha-08-Shruti-sambeg-2015-06-30.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "https://archive.org/download/HermanHesseSiddhartha/HermanHesse-Siddhartha-09-Shruti-sambeg-2015-07-07.mp3"
+      },
+      {
+        "title": "Part-10",
+        "audioSource": "https://archive.org/download/HermanHesseSiddhartha/HermanHesse-Siddhartha-10-Shruti-sambeg-2015-07-14.mp3"
+      },
+      {
+        "title": "Part-11",
+        "audioSource": "https://archive.org/download/HermanHesseSiddhartha/HermanHesse-Siddhartha-11-Shruti-sambeg-2015-07-21.mp3"
+      }
+    ]
   },
   {
     "title": "Aaja Ramita Cha",
     "coverImageSourceUrl": "http://1.bp.blogspot.com/-hqE33zhAvWU/VRUgu9_Wr8I/AAAAAAAACyE/c3GK-UHLYJY/s200/%2B%2BAaja%2BRamita%2Bchha%2B%2B%2BIndra%2BBahadur%2BRai.JPG",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://archive.org/download/IndraBahadurRaiAajaRamitaChha/Indra%20Bahadur%20Rai%20-%20Aaja%20Ramita%20Chha%20-%2001%20-%20Shruti-Sambeg%20-2015-03-24.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/IndraBahadurRaiAajaRamitaChha/IndraBahadurRai-AajaRamitaChha-02-Shruti-sambeg-2015-03-31.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/IndraBahadurRaiAajaRamitaChha/IndraBahadurRai-AajaRamitaChha-03-Shruti-sambeg-2015-04-07.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://archive.org/download/IndraBahadurRaiAajaRamitaChha/IndraBahadurRai-AajaRamitaChha-04-Shruti-sambeg-2015-04-14.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://archive.org/download/IndraBahadurRaiAajaRamitaChha/IndraBahadurRai-AajaRamitaChha-05-Shruti-sambeg-2015-04-21.mp3"
+      }
+    ]
   },
   {
     "title": "Lal Chudi | Krishna Abiral",
     "coverImageSourceUrl": "http://1.bp.blogspot.com/-iPC633y0A_4/VKXa2hiB3SI/AAAAAAAACtI/rK-M_ehC0RA/s320/%2B%2BLal%2Bchudi%2B%2B%2BKrishna%2BAbiral.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://archive.org/download/KrishnaAbiralLalChudi/Krishna%20Abiral%20-%20Lal%20Chudi%20-%2001%20-%20Shruti-Sambeg%20-2014-12-23.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/KrishnaAbiralLalChudi/Krishna%20Abiral%20-%20Lal%20Chudi%20-%2002%20-%20Shruti-Sambeg%20-2014-12-30.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/KrishnaAbiralLalChudi/KrishnaAbiral-LalChudi-03-Shruti-sambeg-2014-01-06.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://archive.org/download/KrishnaAbiralLalChudi/KrishnaAbiral-LalChudi-04-Shruti-sambeg-2015-01-13.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://archive.org/download/KrishnaAbiralLalChudi/KrishnaAbiral-LalChudi-05-Shruti-sambeg-2015-01-20.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/KrishnaAbiralLalChudi/KrishnaAbiral-LalChudi-06-Shruti-sambeg-2015-01-27.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "https://archive.org/download/KrishnaAbiralLalChudi/KrishnaAbiral-LalChudi-07-Shruti-sambeg-2015-02-03.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "https://archive.org/download/KrishnaAbiralLalChudi/KrishnaAbiral-LalChudi-08-Shruti-sambeg-2015-02-10.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "https://archive.org/download/KrishnaAbiralLalChudi/KrishnaAbiral-LalChudi-09-Shruti-sambeg-2015-02-17.mp3"
+      }
+    ]
   },
   {
     "title": "Anuradha",
     "coverImageSourceUrl": "http://4.bp.blogspot.com/-eOD7rjGReQk/VGRKpITkdZI/AAAAAAAACl0/0H3L5jRliQE/s1600/%2B%2BAnuradha%2B%2B%2BBijaya%2BMalla.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://archive.org/download/BijayMallaAnuradha/Bijay%20Malla%20-%20Anuradha%20-%2001%20-%20Shruti-Sambeg%20-2014-10-21.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/BijayMallaAnuradha/Bijay%20Malla%20-%20Anuradha%20-%2002%20-%20Shruti-Sambeg%20-2014-10-28.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/BijayMallaAnuradha/Bijay%20Malla%20-%20Anuradha%20-%2003%20-%20Shruti-Sambeg%20-11-04-2014.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://archive.org/download/BijayMallaAnuradha/BijayMalla-Anuradha-04-Shruti-sambeg-2014-11-11.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://archive.org/download/BijayMallaAnuradha/BijayMalla-Anuradha-05-Shruti-sambeg-2014-11-18.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/BijayMallaAnuradha/BijayMalla-Anuradha-06-Shruti-sambeg-2014-11-25.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "https://archive.org/download/BijayMallaAnuradha/BijayMalla-Anuradha-07-Shruti-sambeg-2014-12-02.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "https://archive.org/download/BijayMallaAnuradha/BijayMalla-Anuradha-08-Shruti-sambeg-2014-12-09_last.mp3"
+      }
+    ]
   },
   {
     "title": "Seto Dharti",
     "coverImageSourceUrl": "http://4.bp.blogspot.com/-r2bhCiIgohk/UG1w5dQnAMI/AAAAAAAABR4/4fVHyx7gFfg/s200/Seto%2B%252B%2BDharti%2B%252B%2BAmar%2BNeupane.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://archive.org/download/setoha/Seto%20Dharti%20-%2001%20-Hamro%20Awaz.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/setoha/Seto%20Dharti-02-Hamro%20Awaz.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/setoha/SetoDharti-03-hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://archive.org/download/setoha/SetoDharti-04-hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://archive.org/download/setoha/SetoDharti-05--hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/setoha/SetoDharti-06--hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "https://archive.org/download/setoha/SetoDharti-7-HamroAwaz.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SeroDharti-08-Shruti-sambeg.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-09-Shurti-sambeg-2014-10-24.mp3"
+      },
+      {
+        "title": "Part-10",
+        "audioSource": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-10-Shurti-sambeg-2014-10-31.mp3"
+      },
+      {
+        "title": "Part-11",
+        "audioSource": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-11-Shurti-sambeg-2014-11-07.mp3"
+      },
+      {
+        "title": "Part-12",
+        "audioSource": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-12-Shurti-sambeg-2014-11-14.mp3"
+      },
+      {
+        "title": "Part-13",
+        "audioSource": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-13-Shurti-sambeg-2014-11-21.mp3"
+      },
+      {
+        "title": "Part-14",
+        "audioSource": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-14-Shurti-sambeg-2014-11-28.mp3"
+      },
+      {
+        "title": "Part-15",
+        "audioSource": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-15-Shurti-sambeg-2014-12-12.mp3"
+      },
+      {
+        "title": "Part-16",
+        "audioSource": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-16-Shurti-sambeg-2014-12-19.mp3"
+      },
+      {
+        "title": "Part-17",
+        "audioSource": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-17-Shurti-sambeg-2014-12-26.mp3"
+      },
+      {
+        "title": "Part-18",
+        "audioSource": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-18-Shurti-sambeg-2015-01-02.mp3"
+      },
+      {
+        "title": "Part-19",
+        "audioSource": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-19-Shurti-sambeg-2015-01-09.mp3"
+      },
+      {
+        "title": "Part-20",
+        "audioSource": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-Abstract_interview_with_amar_neupane-Shurti-sambeg-2015-01-16.mp3"
+      }
+    ]
   },
   {
     "title": "Sakas",
     "coverImageSourceUrl": "http://3.bp.blogspot.com/-_o9i1WZrTdY/U6mk0Osj_-I/AAAAAAAACcU/fh7z0sl645Y/s200/++Sakas+++Nepali+Novel.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://archive.org/download/Sakaha/Sakas%201%20-%20Hamro%20Awaz.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/Sakaha/Sakas%202%20-%20Hamro%20Awaz.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/Sakaha/Sakas%203%20-%20Hamro%20Awaz.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://archive.org/download/Sakaha/Sakas4-HamroAwaz.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://archive.org/download/Sakaha/Sakas5-HamroAwaz.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/Sakaha/Sakas6-HamroAwaz.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "https://archive.org/download/Sakaha/Sakas-07-hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "https://archive.org/download/Sakaha/Sakas-08-hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "https://archive.org/download/Sakaha/Sakas-09-hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-10",
+        "audioSource": "https://archive.org/download/Sakaha/Sakas-10-hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-11",
+        "audioSource": "https://archive.org/download/Sakaha/Sakas-11-hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-12",
+        "audioSource": "https://archive.org/download/Sakaha/Sakas-12-hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-13",
+        "audioSource": "https://archive.org/download/JagdishGhimireySakas/JagdishGhimirey-Sakas-13-Shruti-sambeg-2014-09-09.mp3"
+      },
+      {
+        "title": "Part-14",
+        "audioSource": "https://archive.org/download/JagdishGhimireySakas/JagdishGhimirey-Sakas-14-Shruti-sambeg-2014-09-16_last.mp3"
+      }
+    ]
   },
   {
     "title": "Sadak Ra Pratibha",
     "coverImageSourceUrl": "http://4.bp.blogspot.com/-7MqWcUibjXk/VD3TqP8LNYI/AAAAAAAAClU/iT2n2IdvReQ/s1600/%2B%2BParijat.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Sadak Ra Pratibha Full Audio",
+        "audioSource": "https://archive.org/download/setoha/SadakRaPratibha.mp3"
+      }
+    ]
   },
   {
     "title": "Chat Girl",
     "coverImageSourceUrl": "http://1.bp.blogspot.com/-LmbwW0um5l0/VDaooaDOIGI/AAAAAAAACkk/bbASUMQjoAo/s1600/%2BChat%2B%2B%2BGirl.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://archive.org/download/setoha/ChatGirl1-hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/setoha/ChatGirl2-hamroAwaz.mp3"
+      }
+    ]
   },
   {
     "title": "Unko Samjhana",
     "coverImageSourceUrl": "http://4.bp.blogspot.com/-jnRIxxNwAWE/U7jFu9dsviI/AAAAAAAACc0/At3G9-cRjSQ/s200/++Unko+Samjhana+++Novel.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://archive.org/download/rbsgyg/UnkoSamjhana1-HamroAwaz.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/rbsgyg/UnkoSamjhana2-HamroAwaz.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/rbsgyg/Unkosamjhana-03-hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://archive.org/download/rbsgyg/Unkosamjhana-04-hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://archive.org/download/rbsgyg/Unkosamjhana-05-hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/rbsgyg/Unkosamjhana-06-hamroAwaz.mp3"
+      }
+    ]
   },
   {
     "title": "Summer Love",
     "coverImageSourceUrl": "http://2.bp.blogspot.com/-ZX22K40f7TM/UvZLoSqqBTI/AAAAAAAACNc/fomn8f4cUT0/s200/++Summer+Love+++Novel.JPG",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://archive.org/download/rbsgyg/SubinBhattarai-SummerLove-1-hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/rbsgyg/Subinbhattarai-summerlove-2-hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/rbsgyg/Subinbhattarai-summerlove-3-hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://archive.org/download/rbsgyg/Subinbhattarai-summerlove-4-hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://archive.org/download/rbsgyg/Subinbhattarai-summerlove-5-hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/rbsgyg/Subinbhattarai-summerlove-6-hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "https://archive.org/download/rbsgyg/Subinbhattarai-summerlove-7-hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "https://archive.org/download/rbsgyg/Subinbhattarai-summerlove-8-hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "https://archive.org/download/rbsgyg/Subinbhattarai-summerlove-9-hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-10",
+        "audioSource": "https://archive.org/download/rbsgyg/Subinbhattarai-summerlove-10-hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-11",
+        "audioSource": "https://archive.org/download/rbsgyg/Subinbhattarai-summerlove-11-hamroAwaz.mp3"
+      },
+      {
+        "title": "Part-12",
+        "audioSource": "https://archive.org/download/rbsgyg/Subinbhattarai-summerlove-interview-hamroAwaz.mp3"
+      }
+    ]
   },
   {
     "title": "Agnibatika",
     "coverImageSourceUrl": "https://1.bp.blogspot.com/--5wr54UYNnI/UuvBchxOmaI/AAAAAAAACM8/JL06xxNpdng/s200/++Agnibatika.jpeg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://ia600604.us.archive.org/26/items/TaraniPrasadKoirala-Agnibatika/TaraniPrasadKoirala-Agnibatika-1-Shruti-sambeg-2014-01-28.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/AgniBatika2taraniPrasadKoiralaUploadedByKirandhakal.blogspot.com/AgniBatika2taraniPrasadKoirala.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://ia600603.us.archive.org/10/items/Episode3NovelAgniBatikaByTariniPrasadKoirala20140211ChisapaniNepal/Episode%203-%20Novel%20Agni%20Batika%20by%20Tarini%20Prasad%20Koirala_2014-02-11%28Chisapani%20Nepal%29.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://ia600604.us.archive.org/26/items/TaraniPrasadKoirala-Agnibatika/TaraniPrasadKoirala-Agnibatikaa-4-Shruti-sambeg-2014-02-18.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://ia600604.us.archive.org/26/items/TaraniPrasadKoirala-Agnibatika/TaraniPrasadKoirala-Agnibatikaa-5-Shruti-sambeg-2014-02-25.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://ia600604.us.archive.org/26/items/TaraniPrasadKoirala-Agnibatika/TaraniPrasadKoirala-Agnibatikaa-6-Shruti-sambeg--2014-03-11.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "https://archive.org/download/AgniBatika7taraniPrasadKoiralaUploadedByKirandhakal.blogspot.com/AgniBatika7taraniPrasadKoirala.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "https://ia600604.us.archive.org/26/items/TaraniPrasadKoirala-Agnibatika/TaraniPrasadKoirala-Agnibatikaa-8-Shruti-sambeg-2014-03-25.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "https://archive.org/download/AgniBatika9taraniPrasadKoiralaUploadedByKirandhakal.blogspot.com/AgniBatika9taraniPrasadKoirala.mp3"
+      },
+      {
+        "title": "Part-10",
+        "audioSource": "https://archive.org/download/AgniBatika10taraniPrasadKoiralaUploadedByKirandhakal.blogspot.com/AgniBatika10taraniPrasadKoirala.mp3"
+      },
+      {
+        "title": "Part-11",
+        "audioSource": "https://ia600604.us.archive.org/26/items/TaraniPrasadKoirala-Agnibatika/TaraniPrasadKoirala-Agnibatikaa-11-Shruti-sambeg-2014-04-15.mp3"
+      },
+      {
+        "title": "Part-12",
+        "audioSource": "https://ia802505.us.archive.org/16/items/Episode12NovelAgniBatikaByTariniPrasadKoirala20140422ChisapaniNepal.mp3/Episode%2012-Novel%20Agni%20Batika%20by%20Tarini%20Prasad%20Koirala_-2014-04-22%20%28Chisapani%20Nepal%29.mp3.mp3"
+      },
+      {
+        "title": "Part-13",
+        "audioSource": "https://ia600604.us.archive.org/26/items/TaraniPrasadKoirala-Agnibatika/TaraniPrasadKoirala-Agnibatikaa-13-Shruti-sambeg-2014-04-29_last.mp3"
+      }
+    ]
   },
   {
     "title": "Karnali Blues",
     "coverImageSourceUrl": "https://1.bp.blogspot.com/-Y6qIHA3QlV4/UJ3_Bm9f2TI/AAAAAAAABYw/P2ml4mW1j04/s200/karnali%2Bblues.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://archive.org/download/Ss_karnaliBlues/ShrutiSambegkarnaliBlues2069Ashoj30_epi01.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://ia801608.us.archive.org/22/items/Ss_karnaliBlues02/ShrutiSambegkarnaliBlues2069Kartik07_epi02.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://ia801600.us.archive.org/5/items/Ss_karnaliBlues03/ShrutiSambegkarnaliBlues2069Kartik14_epi03.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "http://ia601609.us.archive.org/9/items/Ss_karnaliBlues04/ShrutiSambegkarnaliBlues2069Kartik21_epi04.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://ia601608.us.archive.org/33/items/Ss_karnaliBlues05/ShrutiSambegkarnaliBlues2069Kartik28_epi05.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "http://ia601608.us.archive.org/32/items/Ss_karnaliBlues06/ShrutiSambegkarnaliBlues2069Mangshir05_epi06.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "http://ia601607.us.archive.org/10/items/Ss_karnaliBlues07/ShrutiSambegkarnaliBlues2069Mangshir12_epi07.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "http://ia601600.us.archive.org/34/items/Ss_karnaliBlues08/ShrutiSambegkarnaliBlues2069Manghsir19_epi08.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "http://ia601607.us.archive.org/27/items/SS_KarnaliBlues09/ShrutiSambegkarnaliBlues2069Manghsir26_epi09.mp3"
+      },
+      {
+        "title": "Part-10",
+        "audioSource": "http://ia601608.us.archive.org/14/items/SS_KarnaliBlues10/ShrutiSambegkarnaliBlues2069Poush03_epi10.mp3"
+      },
+      {
+        "title": "Part-11",
+        "audioSource": "http://ia601601.us.archive.org/26/items/Episode11-KarnaliBluzeByBuddiSagar11th2012-12-25/Episode11-KarnaliBluzeByBuddiSagar11th2012-12-25.mp3"
+      },
+      {
+        "title": "Part-12",
+        "audioSource": "https://ia601601.us.archive.org/24/items/ShrutiSambegkarnaliBlues2069Poush17Epi12/Shruti%20Sambeg%20%28karnali%20Blues%29%202069%20poush%2017_epi12.mp3"
+      },
+      {
+        "title": "Part-13",
+        "audioSource": "https://ia601602.us.archive.org/29/items/ShrutiSambegkarnaliBlues2069Poush24Epi13/Shruti%20Sambeg%20%28karnali%20Blues%29%202069%20poush%2024_epi13.mp3"
+      },
+      {
+        "title": "Part-14",
+        "audioSource": "https://ia601606.us.archive.org/6/items/ShrutiSambegkarnaliBlues2069Magh02Epi14/Shruti%20Sambeg%20%28karnali%20Blues%29%202069%20Magh%2002_epi14.mp3"
+      },
+      {
+        "title": "Part-15",
+        "audioSource": "https://ia801605.us.archive.org/25/items/ShrutiSambegkarnaliBlues2069Magh09Epi15/Shruti%20Sambeg%20%28karnali%20Blues%29%202069%20Magh%2009_epi15.mp3"
+      },
+      {
+        "title": "Part-16",
+        "audioSource": "https://ia801609.us.archive.org/34/items/ShrutiSambegkarnaliBlues2069Magh16Epi16/Shruti%20Sambeg%20%28karnali%20Blues%29%202069%20Magh%2016_epi16.mp3"
+      },
+      {
+        "title": "Part-17",
+        "audioSource": "https://ia801603.us.archive.org/6/items/ShrutiSambegkarnaliBlues2069Magh23Epi17/Shruti%20Sambeg%20%28karnali%20Blues%29%202069%20Magh%2023_epi17.mp3"
+      },
+      {
+        "title": "Part-18",
+        "audioSource": "https://ia801606.us.archive.org/9/items/ShrutiSambegkarnaliBlues2069Falgun01Epi18/Shruti%20Sambeg%20%28karnali%20Blues%29%202069%20Falgun%2001_epi%2018.mp3"
+      }
+    ]
   },
   {
     "title": "Damini Bhir",
     "coverImageSourceUrl": "https://3.bp.blogspot.com/-4jpYOiucxz0/Ul9gOJf71OI/AAAAAAAACBs/IJvzJ9U7UfU/s200/++Damini+++Bhir1.jpg",
-    "chapters": []
-  },
-  {
-    "title": "Madan Puraskar",
-    "coverImageSourceUrl": "http://2.bp.blogspot.com/-YcQNOWjvT0A/VBpfqoIT6QI/AAAAAAAACjo/r9XTIXbApvA/s1600/%2B%2BMadan%2B%2B%2BPuraskar.png",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://ia601000.us.archive.org/33/items/Episode1DaminiBhirByRajanMukarung20131004ChisapaniNepal/Episode%201-%20Damini%20Bhir%20by%20Rajan%20Mukarung-2013-10-04%20%28Chisapani%20Nepal%29.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/ShrutiSambegDaminiBhir2nd20131011/Shruti-Sambeg%28-Damini-Bhir-2nd%29-2013-10-11.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://archive.org/download/DaminiBhir/RajanMukarung-DaminiBhir-03-Shruti-sambeg-2012-12-07.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://ia601005.us.archive.org/32/items/DaminiBhir/RajanMukarung-DaminiBhir-04-Shurti-sambeg-2013-10-25.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://archive.org/download/ShrutiSambegDaminiBhir5th20131101/Shruti-Sambeg%28-Damini-Bhir-5th%29-2013-11-01.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/ShrutiSambegDaminiBhir6th20131108.mp3/Shruti-Sambeg%28-Damini-Bhir-6th%29-2013-11-08.mp3.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "https://archive.org/download/ShrutiSambegDaminiBhir7th20131115.mp3/Shruti-Sambeg%28-Damini-Bhir-7th%29-2013-11-15.mp3.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "https://archive.org/download/Episode8DaminiVirByRajanMukarungChisapaniNepal20131129.mp3/Episode%20%208%20-%20Damini%20Vir%20by%20Rajan%20Mukarung%28Chisapani%20Nepal%29-2013-11-29.mp3.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "https://ia601005.us.archive.org/32/items/DaminiBhir/RajanMukarung-DaminiBhir-09-Shruti-sambeg-2013-12-06.mp3"
+      },
+      {
+        "title": "Part-10",
+        "audioSource": "https://ia601005.us.archive.org/32/items/DaminiBhir/RajanMukarung-DaminiBhir-10-Shruti-sambeg-2013-12-13.mp3"
+      },
+      {
+        "title": "Part-11",
+        "audioSource": "https://ia601005.us.archive.org/32/items/DaminiBhir/RajanMukarung-DaminiBhir-11-Shruti-sambeg-2013-12-20.mp3"
+      },
+      {
+        "title": "Part-12",
+        "audioSource": "https://ia801005.us.archive.org/32/items/DaminiBhir/RajanMukarung-DaminiBhir-12-Shruti-sambeg-2013-12-27.mp3"
+      },
+      {
+        "title": "Part-13",
+        "audioSource": "https://ia601005.us.archive.org/32/items/DaminiBhir/RajanMukarung-DaminiBhir-13-Shruti-sambeg-2014-01-03.mp3"
+      },
+      {
+        "title": "Part-14",
+        "audioSource": "https://ia601005.us.archive.org/32/items/DaminiBhir/RajanMukarung-DaminiBhir-14-Shruti-sambeg-2014-01-10.mp3"
+      }
+    ]
   },
   {
     "title": "Darbar Bahiraki Maharani",
     "coverImageSourceUrl": "https://3.bp.blogspot.com/-mDQtLw0qAIE/UYz7tckHEYI/AAAAAAAABh8/7MReI3Ji010/s200/++durbar+++Bahiraki+++maharani.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://archive.org/download/Episode1DarwabBahirakiManaraniNagendraNeupani20130326ChisapaniNepal.mp3/Episode%201-%20Darwab%20Bahiraki%20Manarani%20%28Nagendra%20Neupani%29%202013-03-26%20%28Chisapani%20Nepal%29.mp3.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://archive.org/download/Episode2DarwarBahirakiMaharaniNagendraNeupane20130402ChisapaniNepal/Episode%202-Darwar%20Bahiraki%20Maharani%20%28Nagendra%20Neupane%29%202013-04-02%20%28Chisapani%20Nepal%29.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://archive.org/download/Episode3DarbarBahirakiMaharaniChisapaniNepal20130409/Episode%203-%20Derbar%20Bahiraki%20Maharani%20%28Chisapani%20Nepal%29%202013-04-09.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "http://archive.org/download/Episode4DarwarBhitrakiMaharaniByNagendraNeupane16thApril/Episode%204-%20Darwar%20Bhitraki%20Maharani%20by%20Nagendra%20Neupane%2016th%20April.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://archive.org/download/Episode5DarbarBahirakiMaharaniShrutiSambeg20130423.mp3/Episode%205-Darbar%20Bahiraki%20Maharani%20-Shruti-Sambeg-2013-04-23.mp3.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/Episode6DarbarBahirakiMaharaniByNagendraNeupane20130430ChisapaniNepal.mp3/Episode%206-%20Darbar%20Bahiraki%20Maharani%20by%20Nagendra%20Neupane-2013-04-30%20%28Chisapani%20Nepal%29%20.mp3.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "https://archive.org/download/Episode7DarbarBahirakiMaharaniByNagendraNeupane20130507ChisapaniNepal.mp3/Episode%207-%20Darbar%20Bahiraki%20Maharani%20by%20Nagendra%20Neupane%202013-05-07%20%28Chisapani%20Nepal%29.mp3.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "https://archive.org/download/Episode8DarbarBahirakiMaharaniNewschisapani.blogspot.com20130514.mp3/Episode%208-%20Darbar%20Bahiraki%20Maharani%20%28Newschisapani.blogspot.com%29_2013-05-14.mp3.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "https://archive.org/download/Episode9DarbarBahirakiMabaraniByNagedraNeupane20130521Newschisapani.mp3/Episode%209-%20Darbar%20Bahiraki%20Mabarani%20by%20Nagedra%20Neupane%20-2013-05-21%20%28Newschisapani%29.mp3.mp3"
+      },
+      {
+        "title": "Part-10",
+        "audioSource": "https://archive.org/download/Episode10DarbarBahirakiMaharaniByNagendraNeupane20130528.mp3/Episode%2010-%20Darbar%20Bahiraki%20Maharani%20by%20Nagendra%20Neupane%202013-05-28.mp3.mp3"
+      },
+      {
+        "title": "Part-11",
+        "audioSource": "https://archive.org/download/Episode11DarbarBahirakiMaharaniByNagendraNeupane20130604.mp3/Episode%2011-%20Darbar%20Bahiraki%20Maharani%20by%20Nagendra%20Neupane-2013-06-04.mp3.mp3"
+      },
+      {
+        "title": "Part-12",
+        "audioSource": "https://archive.org/download/Episode12DarbarBahirakiMaharaniByNagendraNeupane20130611.NewsChisapanimp3/Episode%2012-%20Darbar%20Bahiraki%20Maharani%20by%20Nagendra%20Neupane%202013-06-11.%20%28News%20Chisapani%29mp3.mp3"
+      }
+    ]
   },
   {
     "title": "Muluk Bahira Ma",
     "coverImageSourceUrl": "https://4.bp.blogspot.com/-qN_VniYUV2Q/UccDuOoYJPI/AAAAAAAABwc/eCR21b9OAjs/s200/++Muluk+++bahira+++ma.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://archive.org/download/Episode1MulukBahiraByLaishinghWandgel20130618newschisapaniBlog.mp3/Episode%201%20-%20Muluk%20Bahira%20by%20Laishingh%20wandgel%20-2013-06-18%20%28newschisapani%20blog%29.mp3.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/Episode2MulukBahiraNovel20130625ChisapaniNepal/Episode%202%20-%20Muluk%20Bahira%20Novel%202013-06-25%20%28Chisapani%20Nepal%29.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/Episode3MulukBahiraNovel20130702ChisapaniNepal/Episode%203-%20Muluk%20Bahira%20Novel-%202013-07-02%20(Chisapani%20Nepal).mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://archive.org/download/Episode4MulukBahiraNovel20130709ChisapaniNepal/Episode%204-%20Muluk%20Bahira%20Novel%20-2013-07-09%20(Chisapani%20Nepal).mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://ia800901.us.archive.org/31/items/Episode5MulukBahiraNovel20130716ChisapaniNepal/Episode%205-%20Muluk%20Bahira%20Novel%20-2013-07-16%20(Chisapani%20Nepal).mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/Episode6MulukBahira20130723ChisapaniNepal/Episode%206-Muluk%20Bahira%202013-07-23%20(Chisapani%20Nepal).mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "http://archive.org/download/Episode7-MulukBahiraNovelByLainShingWanel-2013-07-30chisapaniNepal/Episode7-MulukBahiraNovelByLainShingWanel-2013-07-30chisapaniNepal.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "https://archive.org/download/Episode8MulukBahiraByLainshingWangdel20130806ChisapaniNepal.mp3/Episode%208-%20Muluk%20Bahira%20by%20Lainshing%20wangdel%20-2013-08-06%20(Chisapani%20Nepal).mp3.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "https://archive.org/download/Episode9MulukBahiraNovel20130813ChisapaniNepalLast.mp3/Episode%209%20-%20Muluk%20bahira%20Novel-2013-08-13%20(Chisapani%20Nepal)-%20Last.mp3.mp3"
+      }
+    ]
   },
   {
     "title": "Atripta Garbhadhan",
     "coverImageSourceUrl": "https://1.bp.blogspot.com/-lArVV3841NA/U6ma8RDA94I/AAAAAAAACcE/JY88EGsLSNU/s200/++Atripta+++Garbhadhan.jpeg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://archive.org/download/Episode1AtriptaGharbhadhanByKabitram20140523ChisapaniNepal.mp3/Episode%201-%20Atripta%20Gharbhadhan%20by%20Kabitram%202014-05-23%20%28Chisapani%20Nepal%29.mp3.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/Episode2AtriptaGharbhadhanByKabitram20140530ChisapaniNepal.mp3/Episode%202-%20Atripta%20Gharbhadhan%20by%20Kabitram%20-2014-05-30%20%28Chisapani%20Nepal%29.mp3.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/Episode3AtriptaGharbhadhanByKabitram20140606ChisapaniNepal/Episode%203-%20Atripta%20Gharbhadhan%20by%20Kabitram%282014-06-06%20%28Chisapani%20Nepal%29.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://archive.org/download/Episode4AtriptaGharbhadhanByKabitram20140613ChisapaniNepal.MP3/Episode%204-%20Atripta%20Gharbhadhan%20by%20Kabitram-2014-06-13%20%28Chisapani%20Nepal%29.MP3.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://ia902502.us.archive.org/8/items/Episode5AtriptaGharbhadhanByKabitram20140620ChisapaniNepal/Episode%205-%20Atripta%20Gharbhadhan%20by%20Kabitram-2014-06-20%20%28Chisapani%20Nepal%29.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/DrKabitaRamShresthaAtriptaGarbadhaan/DrKabitaRamShrestha-BigyanNatyoupanyas-AtriptaGarbadhaan-06-Shruti-sambeg-2014-06-27.mp3"
+      }
+    ]
   },
   {
     "title": "Aakarharu ra Chhaayaaharu | Nepali Story",
     "coverImageSourceUrl": "https://1.bp.blogspot.com/-fn3SMX4gXx4/U2mkHmKXPtI/AAAAAAAACRI/NQAR0XnMvQk/s200/++Indra+Bahadur+Rai.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Aakarharu ra Chhaayaaharu | Nepali Story Full Audio",
+        "audioSource": "https://archive.org/download/IndraBahadurRaiKathastha/Indra%20Bahadur%20Rai%20-%20Kathastha%20katha%20sangraha%20-%20Katha%20-%20Aakar%20haru%20Chaayaa%20haru%20-%20Shruti-Sambeg%20-2014-05-06.mp3"
+      }
+    ]
   },
   {
     "title": "Comrade Anjana and Chuki | Nepali Story",
     "coverImageSourceUrl": "https://2.bp.blogspot.com/-fmkIL_EyKEE/U2mTgP7fkFI/AAAAAAAACQ4/AlXXMhY88g8/s200/++Chuki+story.JPG",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Comrade Anjana and Chuki | Nepali Story Full Audio",
+        "audioSource": "https://archive.org/download/BinaTamangSungavaChukiKathaSangraha/Bina%20Tamang%20Sungava%20-%20Chuki%20katha%20sangraha%20-%20Kamred%20Anjana%20-%20Chuki%20-%20Shruti-Sambeg%20-2014-05-02.mp3"
+      }
+    ]
   },
   {
     "title": "Nepali Novel Samaya Trasadi",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://archive.org/download/Episode-1-SamayaTrasadisharuBhaktaShruti-sambeg_uploadedByRamSharan/Episode-1-SamayaTrasadisharuBhaktaShruti-sambeg-2012_01_10.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/Episode2-SamayaTrasadi-SaruBhakta-shruti-sambeg-2012_01_17_uploadedByRam/Episode2-SamayaTrasadi-SaruBhakta-shruti-sambeg-2012_01_17.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/Episode3-SamayaTrasadisharuBhaktaShruti-sambeg-2012-01-24UploadedBy/Episode3-SamayaTrasadisharuBhaktaShruti-sambeg-2012-01-24UploadedByRamSharanShrestha.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://archive.org/download/Episode4-SamayaTrasadisaruBhaktaShruti-sambeg-2012-01-31UploadedBy/Episode4-SamayaTrasadisaruBhaktaShruti-sambeg-2012-01-31UploadedByRamSharanShrestha.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://archive.org/download/Episode5-SamayaTrasadisaruBhaktaShruti-sambeg-2012-02-07-uploadedBy/Episode5-SamayaTrasadisaruBhaktaShruti-sambeg-2012-02-07-uploadedByRamSharanShrestha.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/Episode6-SamayaTrasadisaruBhaktaShruti-sambeg--2012-02-14UploadedBy/Episode6-SamayaTrasadisaruBhaktaShruti-sambeg--2012-02-14.mp3"
+      }
+    ]
   },
   {
     "title": "Soch | Karna Shakya",
     "coverImageSourceUrl": "https://4.bp.blogspot.com/-8s1_Xw5-ifE/UPEyoPnUK_I/AAAAAAAABf0/YoB4rgNkoV4/s200/%252B%2BKarna%2B%252B%2BShakya%2B%252B%2BSoch.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://ia600802.us.archive.org/20/items/Part1-SochByKarnaShkyachisapaniNepal/Part1-SochByKarnaSakyachisapaniNepal.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://ia600800.us.archive.org/0/items/Part2-SochByKarnaSakyachisapaniNepal/Part2-SochByKarnaSakyachisapaniNepal.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://ia600803.us.archive.org/2/items/Part3-SochByKarnaShakyachisapaniNepal/Part3-SochByKarnaShakyachisapaniNepal.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "http://ia600803.us.archive.org/24/items/Part4-SochByKarnaShakyachisapaniNepal/Part4-SochByKarnaShakyachisapaniNepal.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://ia600802.us.archive.org/22/items/Part5-SochByKarnaShakyachisapaniNepal/Part5-SochByKarnaShakyachisapaniNepal.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "http://ia600800.us.archive.org/18/items/Part6-SochByKarnaShakyachisapaniNepal/Part6-SochByKarnaShakyachisapaniNepal.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "https://archive.org/download/Part7-SochByKarnaShakyachisapaniNepal/Part7-SochByKarnaShakyachisapaniNepal.mp3"
+      }
+    ]
   },
   {
     "title": "Shanta",
     "coverImageSourceUrl": "https://3.bp.blogspot.com/-Cm3tLfCadlw/UnUlVNn3DCI/AAAAAAAACF8/bLoOSDP8NVk/s200/++shanta+++Novel.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://archive.org/download/Shanta2purusottamDahalwww.kirandhakal.blogspot.com/Shanta1purusottamDahal.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/Shanta2purusottamDahalwww.kirandhakal.blogspot.com_295/Shanta2purusottamDahal.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/Episode3NovelShantaByPurushotamDahal20131105ChisapaniNEpal/Episode%203%20-%20Novel%20Shanta%20by%20Purushotam%20Dahal_2013-11-05%20%28Chisapani%20NEpal%29.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://ia601004.us.archive.org/3/items/Shanta/PurushotamDahal-Shanta-04-Shruti-sambeg-2013-11-12.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://ia601004.us.archive.org/3/items/Shanta/PurushotamDahal-Shanta-05-Shruti-sambeg-2013-11-19.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/ShantaPart6/shanta_part6.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "https://ia601004.us.archive.org/3/items/Shanta/PurushotamDahal-Shanta-07-Shruti-sambeg-2013-12-03.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "https://ia801004.us.archive.org/3/items/Shanta/PurushotamDahal-Shanta-08-Shruti-sambeg-2013-12-10.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "https://ia601004.us.archive.org/3/items/Shanta/PurushotamDahal-Shanta-09-Shruti-sambeg-2013-12-17.mp3"
+      },
+      {
+        "title": "Part-10",
+        "audioSource": "https://ia601004.us.archive.org/3/items/Shanta/PurushotamDahal-Shanta-10-Shruti-sambeg-2013-12-24_interview.mp3"
+      },
+      {
+        "title": "Part-11",
+        "audioSource": "https://ia801004.us.archive.org/3/items/Shanta/PurushotamDahal-Shanta-11-Shruti-sambeg-2013-12-31.mp3"
+      },
+      {
+        "title": "Part-12",
+        "audioSource": "https://ia601004.us.archive.org/3/items/Shanta/PurushotamDahal-Shanta-12-Shruti-sambeg-2014-01-07.mp3"
+      },
+      {
+        "title": "Part-13",
+        "audioSource": "https://ia601004.us.archive.org/3/items/Shanta/PurushotamDahal-Shanta-13-Shruti-sambeg-2014-01-14_last.mp3"
+      }
+    ]
   },
   {
     "title": "Sahar Ko Katha",
     "coverImageSourceUrl": "https://1.bp.blogspot.com/-lNwI-XKtv-Y/UHKuZre-MOI/AAAAAAAABT8/M8iQDHi604Y/s200/%252Bsahar%2Bko%2Bkatha%2B%252B%2BNepali%2BNovel.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://ia601003.us.archive.org/26/items/SaharKoKatha/KishorNepal-SaharKoKatha-1-Shrutisambeg-2012-05-11.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://ia801003.us.archive.org/26/items/SaharKoKatha/KishorNepal-SaharKoKatha-2-Shrutisambeg-2012-05-18.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://ia601003.us.archive.org/26/items/SaharKoKatha/KishorNepal-SaharKoKatha-3-Shrutisambeg-2012-05-25.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://ia801003.us.archive.org/26/items/SaharKoKatha/KishorNepal-SaharKoKatha-4-Shrutisambeg-2012-06-01.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://ia601003.us.archive.org/26/items/SaharKoKatha/KishorNepal-SaharKoKatha-5-Shrutisambeg-2012-06-07.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://ia601003.us.archive.org/26/items/SaharKoKatha/KishorNepal-SaharKoKatha-6-Shrutisambeg-2012-06-15.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "https://ia801003.us.archive.org/26/items/SaharKoKatha/KishorNepal-SaharKoKatha-7-Shrutisambeg-2012-06-22.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "https://ia601003.us.archive.org/26/items/SaharKoKatha/KishorNepal-SaharKoKatha-8-Shrutisambeg-2012-06-29.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "https://ia801003.us.archive.org/26/items/SaharKoKatha/KishorNepal-SaharKoKatha-9-Shrutisambeg-2012-07-06.mp3"
+      }
+    ]
   },
   {
     "title": "Chapaiyeka Anuhar",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://ia601208.us.archive.org/33/items/Episode1-chapaiyekaAnuharharu2012-07-27www.chisapaninepal.blogspot.com/Episode1-chapaiyekaAnuharharu2012-07-27www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://ia601205.us.archive.org/5/items/Episode2-ChapaiyekaAnuhar2012-08-03www.chisapaninepal.blogspot.com/Episode2-ChapaiyekaAnuhar2012-08-03www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://ia600804.us.archive.org/10/items/Episode3-ChapaiyekaAnuharByDaulatB.bista/Episode3-ChapaiyekaAnuharByDaulatB.bista-2012-08-10-www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "http://ia600802.us.archive.org/9/items/Episode4-chapaiyeka-aankha-2012-08-17-www.chisapaninepal.blogspot.com/Episode4-chapaiyeka-aankha-2012-08-17-www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://ia600702.us.archive.org/33/items/Episode5-ChapaiyekaAnuharByDaulatBikramBista2012-08-24chisapani/Episode5-ChapaiyekaAnuharByDaulatBikramBista2012-08-24chisapaniNepal.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "http://ia600502.us.archive.org/33/items/Episode6-ChapaiyekaAnuharByDaulatBikramBista2012_08_31/Episode6-ChapaiyekaAnuharByDaulatBikramBista2012_08_31www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "https://archive.org/download/ChapaiyekaAnuhar7DaulatBikramBista/Chapaiyeka%20Anuhar%207%20%40%20Daulat%20Bikram%20Bista.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "http://ia601505.us.archive.org/10/items/Episode8-ChapaiyekaAnuharByDaulatBikramBista/Episode8-ChapaiyekaAnuharByDaulatBikramBistawww.chisapaninepal.blogspot.com-2012-09-14.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "http://ia600809.us.archive.org/18/items/Episode9-ChapaiyekaAnuharByDaulatBikramBista/Episode9-ChapaiyekaAnuharByDaulatBikramBistawww.chisapaninepal.blogspot.com.mp3"
+      }
+    ]
   },
   {
     "title": "Deshle Hareko Yudha",
     "coverImageSourceUrl": "https://3.bp.blogspot.com/-bln5Iq9hh9Y/UatGfQ6nD6I/AAAAAAAABkE/FQex1YP9fII/s320/++deshle+++hareko+++yuddha.jpeg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://archive.org/download/Episode1DeshleHarekoYugda20130301ChisapaniNepal/Episode%201-%20Deshle%20Hareko%20Yugda%202013-03-01%20%28Chisapani%20Nepal%29.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://ia801604.us.archive.org/2/items/Episode2DeshleHarekoYugda20130308ChisapaniNepal/Episode%202-%20Deshle%20Hareko%20Yugda%202013-03-08%20%28Chisapani%20Nepal%29.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/Episode3DeshleHarekoYugdaChisapaniNepal20130315/Episode%203%20-%20Deshle%20Hareko%20Yugda%20%28Chisapani%20Nepal%29%202013-03-15.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "http://archive.org/download/Episode-4DeskleHarekoYugdaChisapaniNepal_2013-03-22/Episode%204%20-%20Deskle%20Hareko%20Yugda%20%28Chisapani%20Nepal%29%20%202013-03-22.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://archive.org/download/Episode5DeshLeHarekoYugda20130329ChisapaniNepal/Episode%205-%20Desh%20le%20hareko%20Yugda%20_2013-03-29%20%28Chisapani%20Nepal%29.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "http://archive.org/download/Episode6DeshLeHarekoYugdaByHarkaKhadayad20130405ChisapaniNepalLast/Episode%206%20-%20Desh%20le%20Hareko%20Yugda%20by%20Harka%20Khadayad%20_2013-04-05%20%28Chisapani%20Nepal%29-Last.mp3"
+      }
+    ]
   },
   {
     "title": "Pallo Gharko Jhyal",
     "coverImageSourceUrl": "https://4.bp.blogspot.com/-VWQxQwN9VkY/UatSkc5RmaI/AAAAAAAABkQ/sqQ00t-nICw/s320/++pallo+++ghar+++ko+++jhyal.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://ia600805.us.archive.org/11/items/Episode1-PalloGharkoJhyalByGobindaGothale/Episode1-PalloGharkoJhyalByGobindaGothalewww.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://ia600805.us.archive.org/22/items/Episode2-PalloGharkoJhyalByGobindaGothale-2012-07-31/Episode2-PalloGharkoJhyalByGobindaGothale-2012-07-31www.chisapaninepal.blogspot.com.mp3.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://ia600803.us.archive.org/19/items/Episode3PalloGharkoJhyalByGobinda/Episode3PalloGharkoJhyalByGobindaGothale-2012-08-07-www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://archive.org/download/Episode4-PalloGharkoJhyalByGobindaGothale2012-08-14/Episode4-PalloGharkoJhyalByGobindaGothale2012-08-14www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://ia601206.us.archive.org/35/items/Epislde5-PalloGharkoJhyalByGobindaGothale-final-2012-08-21/Epislde5-PalloGharkoJhyalByGobindaGothale-final-2012-08-21www.chisapaninepal.blogspot.com.mp3"
+      }
+    ]
   },
   {
     "title": "Laila Majnu",
     "coverImageSourceUrl": "http://1.bp.blogspot.com/-wWdoWN3169U/Ublx7zEhZkI/AAAAAAAABsY/PYgEJPBKN4A/s200/++Laila+++Majnu.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://ia700807.us.archive.org/6/items/Episode1-LailaMajnu-Part-kathbhitrakaGeetharutimesFm90.6Mhz/Episode1-LailaMajnu-Part-kathbhitrakaGeetharutimesFm90.6Mhz.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://ia600801.us.archive.org/16/items/Episode2-LailaMajnukathbhitrakaGeetharuTimesFm90.6Mhz_2UploadedBy/Episode2-LailaMajnukathbhitrakaGeetharuTimesFm90.6Mhz_2.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://ia600800.us.archive.org/25/items/Episode3-LailaMajnu-kathBhitrakaGeetharu-TimesFm90.6MhzUploaded/Episode3-LailaMajnu-kathBhitrakaGeetharu-TimesFm90.6Mhz.mp3"
+      }
+    ]
   },
   {
     "title": "Franseli Premi",
     "coverImageSourceUrl": "https://3.bp.blogspot.com/-ML8TToDlFSc/Ucez2P-1rmI/AAAAAAAABws/JgWMfm3xFE0/s200/+frenseli+++premi.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://archive.org/download/Episode1FranseliPremiNovelByTaslimaNasrinNewschisapani.blogspot.com20130510/Episode%201%20-%20Franseli%20Premi%20Novel%20byTaslima%20Nasrin%20%28Newschisapani.blogspot.com%29-2013-05-10.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/Episode2FrenseliPremiNewschisapani20130517TaslimaNasrin/Episode%202-%20Frenseli%20Premi%28Newschisapani%29-2013-05-17_Taslima%20Nasrin.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/Episode3FrenseliPremiByTaslimaNasrinFrenchLover20130524NewsChisapani/Episode%203-%20Frenseli%20Premi%20by%20Taslima%20Nasrin%20-French-Lover-2013-05-24%20%28News%20Chisapani%29.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://archive.org/download/Episode4FremchLoverByTaslimaNasrinNewsChisapaniBlog20130531.MP3/Episode%204-%20Fremch%20Lover%20by%20Taslima%20Nasrin%20%28News%20Chisapani%20Blog%29_2013-05-31.MP3.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://archive.org/download/Episode5FranceliPremiFrenchLoverByTaslimaNasrin20130607.mp3/Episode%205-%20Franceli%20Premi%20%28French%20Lover%29%20by%20Taslima%20Nasrin-2013-06-07.mp3.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/Episode6FrenchLoverByTaslimaNasrin20130614NewsChisapaniBlog/Episode%206%20-%20French%20Lover%20by%20Taslima%20Nasrin_2013-06-14%20%28News%20Chisapani%20Blog%29.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "https://archive.org/download/Episode7FrenchLoverByTaslimaNashrin20130621.mp3/Episode%207-%20French%20Lover%20by%20Taslima%20Nashrin%20-2013-06-21.mp3.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "http://ia601804.us.archive.org/3/items/Episode8-FrenchLoverByTaslimaNasrin2013-06-28chisapaniNepal/Episode8-FrenchLoverByTaslimaNasrin2013-06-28chisapaniNepal.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "https://archive.org/download/Episode9FrenchLoverByTaslimaNasrin05072013ChisapaniNepal/Episode%209-%20French%20Lover%20by%20Taslima%20Nasrin%2005-07-2013%20%28Chisapani%20Nepal%29.mp3"
+      },
+      {
+        "title": "Part-10",
+        "audioSource": "https://ia601808.us.archive.org/0/items/Epiosde10FrenchLoverByTaslimaNasrin20130712FranseliPremiChisapaniNepal/Epiosde%2010%20-%20French%20Lover%20by%20Taslima%20Nasrin%20-2013-07-12%20Franseli%20Premi%20(Chisapani%20Nepal).mp3"
+      },
+      {
+        "title": "Part-11",
+        "audioSource": "https://archive.org/download/Episode11FrenchLoverByTaslimaNasrin20130719ChispaniNepal/Episode%2011-%20French%20Lover%20by%20Taslima%20Nasrin-2013-07-19%20(%20Chispani%20Nepal).mp3"
+      },
+      {
+        "title": "Part-12",
+        "audioSource": "https://ia800909.us.archive.org/6/items/Episode12FrenchLoverByTaslimaNasrin20130726ChisapaniNepal/Episode%2012-%20French%20Lover%20by%20Taslima%20Nasrin-2013-07-26%20%28Chisapani%20Nepal%29.mp3"
+      },
+      {
+        "title": "Part-13",
+        "audioSource": "https://archive.org/download/Episode13FrenchLoverByTaslimaNasrinChisapaniNEpal20130802FranseliPremi/Episode%2013-%20French%20Lover%20by%20Taslima%20Nasrin%28Chisapani%20NEpal-%29-2013-08-02_Franseli%20Premi.mp3"
+      }
+    ]
   },
   {
     "title": "Lolita",
     "coverImageSourceUrl": "https://4.bp.blogspot.com/-IbKHeWR9PkE/Uaa2dSaQ0LI/AAAAAAAABj0/ZKrWbRH1VRg/s320/++Lolita+++Nepali+++Novel.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://www.archive.org/download/Lolita_523/Lolita-1.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://www.archive.org/download/Lolita_523/Lolita-2.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://www.archive.org/download/Lolita_523/Lolita-3.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "http://www.archive.org/download/Lolita_523/Lolita-4.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://www.archive.org/download/Lolita_523/Lolita-5.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "http://www.archive.org/download/Lolita_523/Lolita-6.mp3"
+      }
+    ]
   },
   {
     "title": "Pyaas Bhitrako Bidroha",
     "coverImageSourceUrl": "https://3.bp.blogspot.com/-8F-sZIusGm0/Udodtj3BpyI/AAAAAAAAB0A/4zUH7f2OARo/s200/Pyaas+Bhitrako+Bidroha.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://ia600400.us.archive.org/28/items/Episode1-PyasBhitraKoBidroha-Www.chisapaninepal.blogspot.com/Episode1-PyasBhitraKoBidroha-Www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://ia600309.us.archive.org/30/items/Episode2-PyasBhitraKoBidroha-Www.chisapaninepal.blogspot.com/Episode2-PyasBhitraKoBidroha-Www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://ia600601.us.archive.org/29/items/Episode3-PyasBhitraKoBidroha-Www.chisapaninepal.blogspot.com/Episode3-PyasBhitraKoBidroha-Www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "http://ia601204.us.archive.org/2/items/Episode4-PyasBhitraKoBidroha-Www.chisapaninepal.blogspot.com/Episode4-PyasBhitraKoBidroha-Www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://ia600400.us.archive.org/23/items/Episode5-PyasBhitraKoBidroha-Www.chisapaninepal.blogspot.com/Episode5-PyasBhitraKoBidroha-Www.chisapaninepal.blogspot.com.mp3"
+      }
+    ]
   },
   {
     "title": "Seto Bagh",
     "coverImageSourceUrl": "https://3.bp.blogspot.com/-6E6zmR41NxI/T-v8Y61qEDI/AAAAAAAABIQ/VTNTAcu1ZVM/s200/Seto%2BBagh.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://archive.org/download/SetoBaghDiamondShumsherRana/Episode%201_Page_1_to_10_Seto_Bagh_Diamond_Shumsher_Rana.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/SetoBaghDiamondShumsherRana/Episode2_Page_11_to_20_Seto_Bagh_Diamond_Shumsher_Rana.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/SetoBaghDiamondShumsherRana/Episode3_Page_21_to_30_Seto_Bagh_Diamond_Shumsher_Rana.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://archive.org/download/SetoBaghDiamondShumsherRana/Episode4_Page_31_to_43_Seto_Bagh_Diamond_Shumsher_Rana_last.mp3"
+      }
+    ]
   },
   {
     "title": "Karma",
     "coverImageSourceUrl": "https://4.bp.blogspot.com/-LOyKEpkZwwo/Ue1bpGSYlCI/AAAAAAAAB5U/7oShdgTJgI8/s200/karma.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://ia601504.us.archive.org/10/items/Episode1-KarmaByKamalGyawali_2012-11-23-www.chisapaninepal.blogspot.com/Episode1-KarmaByKamalGyawali_2012-11-23-www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://ia601507.us.archive.org/24/items/Episode2-KarmaByKamalGyawali30-11-2012-www.chisapaninepal.blogspot.com/Episode2-KarmaByKamalGyawali30-11-2012-www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://ia601501.us.archive.org/14/items/Episode3-KarmaByKamalGyawali2012-12-07Www.chisapaninepal.blogspot.com/Episode3-KarmaByKamalGyawali2012-12-07Www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "http://ia601500.us.archive.org/5/items/Episode4-KarmaByKamalPrasadGyawali14-12-2012chisapaniNepal/Episode4-KarmaByKamalPrasadGyawali14-12-2012chisapaniNepal.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://ia601603.us.archive.org/35/items/Episode5-KarmaByKamalGyawalichisapaniNepal2012-12-21/Episode5-KarmaByKamalGyawalichisapaniNepal2012-12-21.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "http://ia601607.us.archive.org/16/items/Episode6-karmaByKamalPrasadGyawali-2012-12-28chisapaniNepal/Episode6-karmaByKamalPrasadGyawali-2012-12-28chisapaniNepal.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "http://ia801604.us.archive.org/5/items/Episode7-KarmaByKamalPrasadGyawali-2013-01-04chisapaniNepal/Episode7-KarmaByKamalPrasadGyawali-2013-01-04chisapaniNepal.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "http://ia601608.us.archive.org/18/items/Episode8-KarmaByKamalPrasadGyawali-2013-01-11chisapaniNepal/Episode8-KarmaByKamalPrasadGyawali-2013-01-11chisapaniNepal.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "https://archive.org/download/Episode8-KarmaByKamalGyawali2013-01-18ChisapaniNepal/Episode9-KarmaByKamalGyawali2013-01-18ChisapaniNepal.mp3"
+      },
+      {
+        "title": "Part-10",
+        "audioSource": "http://ia601508.us.archive.org/31/items/Episode10-karmaByKamalPrasadGwayali-2013-01-25ChisapaniNepal-last/Episode10-karmaByKamalPrasadGwayali-2013-01-25ChisapaniNepal-last.mp3"
+      }
+    ]
   },
   {
     "title": "Nasho",
     "coverImageSourceUrl": "https://4.bp.blogspot.com/-JVLPN3rfBBE/UgtROgAVGWI/AAAAAAAAB78/L3slIynuciY/s200/+Nasho+++Guru+++Prasad+++Mainali.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Nasho Full Audio",
+        "audioSource": "http://ia601504.us.archive.org/5/items/StoryNashoFromShrutisambeg2013-02-08-chisapaniNepal/StoryNashoFromShrutisambeg2013-02-08-chisapaniNepal.mp3"
+      }
+    ]
   },
   {
     "title": "Barbarik",
     "coverImageSourceUrl": "https://2.bp.blogspot.com/-kBvEQLb89lU/Ul9a2lchG5I/AAAAAAAACBc/i2XbJWcXc0Y/s200/+barbarik+++Novel.png",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://archive.org/download/Episode1BarbarikByPradipNepal20130910ChisapaniNepal.mp3/Episode%201-%20Barbarik%20by%20Pradip%20Nepal_2013-09-10%20(Chisapani%20Nepal).mp3.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/Episode2BarbarikByPradipNepal20130917ChisapaniNepal/Episode%202-Barbarik%20By%20Pradip%20Nepal%202013-09-17%20(Chisapani%20Nepal).mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/Episode3BarbarikNovelByPradipNepal20130924ChisapaniNepal/Episode%203-%20Barbarik%20Novel%20by%20Pradip%20Nepal-2013-09-24%20%28Chisapani%20Nepal%29.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://ia601904.us.archive.org/10/items/Episode4BarbarikByPradipNepalFromShrutisambegChisapaniNepal20131001/Episode_4-Barbarik%20by%20Pradip%20Nepal%20from%20Shrutisambeg%20%28Chisapani%20Nepal%29_2013-10-01.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://archive.org/download/Episode5BarbarikByPradipNepal20131008ChisapaniNepal/Episode-5-%20Barbarik%20by%20Pradip%20Nepal-2013-10-08%20(Chisapani%20Nepal).mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://ia601006.us.archive.org/2/items/Episode6BarbarikByPradipNepalInShrutiSambeg20131015ChisapaniNepal/Episode%206_%20Barbarik%20By%20Pradip%20Nepal%20in%20Shruti%20Sambeg_2013-10-15%20%28Chisapani%20Nepal%29.mp3"
+      }
+    ]
   },
   {
     "title": "Atma Britanta",
     "coverImageSourceUrl": "https://2.bp.blogspot.com/-TfPaJuLPL0I/UEjGbyXQoDI/AAAAAAAABQ4/gvobDbW5QV4/s200/atma%2Bbritanta.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://archive.org/download/AtmabritantaOfBpKoirala1UploadedByWww.kirandhakal.com/AtmabritantaOfBpKoirala1UploadedByWww.kirandhakal.com.np.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/AtmabritantaOfBpKoirala2UploadedByWww.kirandhakal.com/AtmabritantaOfBpKoirala2UploadedByWww.kirandhakal.com.np.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/AtmabritantaOfBpKoirala3UploadedByWww.kirandhakal.com/AtmabritantaOfBpKoirala3UploadedByWww.kirandhakal.com.np.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://archive.org/download/AtmabritantaOfBpKoirala4UploadedByWww.kirandhakal.com/AtmabritantaOfBpKoirala4UploadedByWww.kirandhakal.com.np.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://archive.org/download/AtmabritantaOfBpKoirala5UploadedByWww.kirandhakal.com/AtmabritantaOfBpKoirala5UploadedByWww.kirandhakal.com.np.mp3"
+      }
+    ]
   },
   {
     "title": "Nepali Novel Palpasa Cafe",
     "coverImageSourceUrl": "https://1.bp.blogspot.com/-bD2otP5JoqE/T_cC9vTFXpI/AAAAAAAABJs/c184GS4ikgA/s200/palpasa%2Bcafe.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://archive.org/download/PalpasaCafe1ByNarayanWagleUploadedByKirandhakal.blogspot.com/PalpasaCafenarayanWagle1.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/PalpasaCafe2byNarayanWagleUploadedByKirandhakal.blogspot.com/PalpasaCafenarayanWagle2.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/PalpasaCafe3byNarayanWagleUploadedByKirandhakal.blogspot.com/PalpasaCafenarayanWagle3.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://archive.org/download/PalpasaCafe4NarayanWagleUploadedByKirandhakal.blogspot.com/PalpasaCafenarayanWagle4.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://archive.org/download/PalpasaCafe5NarayanWagleUploadedByKirandhakal.blogspot.com/PalpasaCafenarayanWagle5.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/PalpasaCafe6NarayanWagleUploadedByKirandhakal.blogspot.com/PalpasaCafenarayanWagle6.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "https://archive.org/download/PalpasaCafe7NarayanWagleUploadedByKirandhakal.blogspot.com/PalpasaCafenarayanWagle7.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "https://archive.org/download/PalpasaCafe8NarayanWagleUploadedByKirandhakal.blogspot.com/PalpasaCafenarayanWagle8.mp3"
+      }
+    ]
   },
   {
     "title": "Nepali Novel Pagal basti",
     "coverImageSourceUrl": "https://2.bp.blogspot.com/-hdejIO_39ZI/TtEEYhXLMPI/AAAAAAAAAUw/lNs4MYAhpVc/s200/pagal-basti+by+saru+bhakta.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://ia600602.us.archive.org/8/items/Shrutisambeg_PagalBasti01/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://ia600504.us.archive.org/25/items/SS_Pagalbasti02/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/PagalBasti/Pagal%20Basti%20-%20003.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://archive.org/download/PagalBasti/Pagal%20Basti%20-%20004.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://archive.org/download/PagalBasti/Pagal%20Basti%20-%20005.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "http://www.archive.org/download/PagalBastiPart6/PagalBasti6.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "http://www.archive.org/download/PagalBastiPart78/PagalBasti7.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "http://www.archive.org/download/PagalBastiPart78/PagalBasti8.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "https://archive.org/download/PagalBasti/Pagal%20Basti%20-%20009.mp3"
+      },
+      {
+        "title": "Part-10",
+        "audioSource": "http://ia600703.us.archive.org/13/items/PagalBasti10/PagalBasti10.mp3"
+      },
+      {
+        "title": "Part-11",
+        "audioSource": "http://ia600705.us.archive.org/23/items/Ss_pagalBasti11/Shrutisambeg11.mp3"
+      },
+      {
+        "title": "Part-12",
+        "audioSource": "http://ia600701.us.archive.org/10/items/Ss_pagalBasti12/PagalBasti12th.mp3"
+      },
+      {
+        "title": "Part-13",
+        "audioSource": "http://ia600700.us.archive.org/9/items/Ss_pagalBasti13/PagalBasti13.mp3"
+      },
+      {
+        "title": "Part-14",
+        "audioSource": "http://www.archive.org/download/Ss_pagalBasti_14/Shruti-Sambeg-2011-09-27.mp3"
+      }
+    ]
   },
   {
     "title": "Nepali Novel Radha",
     "coverImageSourceUrl": "https://1.bp.blogspot.com/_bkA3-MitCgE/S1LTC2iZNfI/AAAAAAAAAdk/ILsUas6Ypow/s200/radha.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://ia600203.us.archive.org/25/items/radha1/radha_1.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://ia800202.us.archive.org/8/items/radha2/radha_2.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://ia800300.us.archive.org/32/items/radha3/radha_3.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://ia601407.us.archive.org/2/items/radha4/radha_4.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://ia800208.us.archive.org/20/items/radha5/radha_5.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://ia800208.us.archive.org/28/items/radha6/radha_6.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "https://ia800207.us.archive.org/14/items/radha7/radha_7.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "https://ia800203.us.archive.org/30/items/radha8/radha_8.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "https://ia800204.us.archive.org/30/items/radha9/radha_9.mp3"
+      },
+      {
+        "title": "Part-10",
+        "audioSource": "https://ia800207.us.archive.org/19/items/radha10/radha_10.mp3"
+      },
+      {
+        "title": "Part-11",
+        "audioSource": "https://ia800209.us.archive.org/20/items/radha11/radha_11.mp3"
+      },
+      {
+        "title": "Part-12",
+        "audioSource": "https://ia902205.us.archive.org/30/items/radha12/radha_12.mp3"
+      },
+      {
+        "title": "Part-13",
+        "audioSource": "https://ia802606.us.archive.org/19/items/radha13/radha_13.mp3"
+      },
+      {
+        "title": "Part-14",
+        "audioSource": "https://ia802608.us.archive.org/18/items/radha14/radha_14.mp3"
+      },
+      {
+        "title": "Part-15",
+        "audioSource": "https://ia902306.us.archive.org/7/items/radha15/radha_15.mp3"
+      },
+      {
+        "title": "Part-16",
+        "audioSource": "https://ia902205.us.archive.org/23/items/radha16/radha_16.mp3"
+      }
+    ]
   },
   {
     "title": "Novel Romeo and Juliet ",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Novel Romeo and Juliet  Full Audio",
+        "audioSource": "https://archive.org/download/SS_RomeoJuliet_Story_Shakespare/RomioNJuliat2067_05_11.mp3"
+      }
+    ]
   },
   {
     "title": "Nepali Novel Sumnima",
     "coverImageSourceUrl": "https://3.bp.blogspot.com/-UCYd7WuNi5U/UADbRSVnoqI/AAAAAAAABKg/bUaW7JHVkd0/s200/B.P%2BKoirala%2B%252B%2BSumnima.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://archive.org/download/Sumnima1bpKoiralaUploadedByKirandhakal.blogspot.com/Sumnima1bpKoirala.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/SS_Sumnima02_Shrawan04/ShrutiSambeg_sumnima_shrawan04.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/SS_Sumnima04_Sharawan18/ShrutiSambeg3_sumnima_shrawan11.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://archive.org/download/Sumnima4bpKoiralaUploadedByKirandhakal.blogspot.com/Sumnima4bpKoirala.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://ia600500.us.archive.org/15/items/SS_Sumnima004_Shrawan18/ShrutiSambeg5_sumnima_shrawan25.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/Sumnima6bpKoiralaUploadedByKirandhakal.blogspot.com/Sumnima6bpKoirala.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "https://archive.org/download/Sumnima7bpKoiralaUploadedByKirandhakal.blogspot.com/Sumnima7bpKoirala.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "http://ia600506.us.archive.org/15/items/Sumnima_08_20670515/ShrutiSambeg8_sumnima_bhadra15.mp3"
+      }
+    ]
   },
   {
     "title": "Nepali Novel Maile Sarita ko Hatya Gare",
     "coverImageSourceUrl": "https://2.bp.blogspot.com/-VjdSYSZSQdk/TvxgXDFaD6I/AAAAAAAAAiQ/I5QHkhDhKX0/s1600/govinda-bahadur-malla.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Nepali Novel Maile Sarita ko Hatya Gare Full Audio",
+        "audioSource": "http://www.archive.org/download/govindagothaley/shrutisambeg.mp3"
+      }
+    ]
   },
   {
     "title": "Nepali Novel Paribhasit Aakhaharu",
     "coverImageSourceUrl": "https://2.bp.blogspot.com/-iF0tXdws--I/TvxdndoSXoI/AAAAAAAAAiE/Mqt7NCmhkYI/s1600/parijat-218x300.gif",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://ia341335.us.archive.org/0/items/shrutisambeg1/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://ia341311.us.archive.org/3/items/shrutisambeg2/shrutisambeg2.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/parivashitaaka3/shrutisambeg3.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "http://ia341337.us.archive.org/0/items/shrutisambeg7/shrutisambeg7.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://ia341339.us.archive.org/3/items/shrutisambeg8/shrutisambeg8.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "http://ia341305.us.archive.org/3/items/parivashitaaka6/parivashitaaka6.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "http://ia341312.us.archive.org/3/items/parivashitaaka7/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "http://ia341331.us.archive.org/1/items/parivashitaaka8/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "http://ia341330.us.archive.org/2/items/parivashitaaka9/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-10",
+        "audioSource": "http://ia341341.us.archive.org/1/items/parivashitaaka10/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-11",
+        "audioSource": "http://ia341332.us.archive.org/2/items/parvishitaaka11/shrutisambeg.mp3"
+      }
+    ]
   },
   {
     "title": "Nepali Novel Babu Aama Ra Chora",
     "coverImageSourceUrl": "https://1.bp.blogspot.com/_bkA3-MitCgE/S5uK2xUoXWI/AAAAAAAAAe8/TRV0IczvGAs/s200/bp_koirala1.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://archive.org/download/BabuAamaRaChhora-BpKoirala/BP_babu_aama_ra_chhora_1.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://archive.org/download/BabuAamaRaChhora-BpKoirala/BP_babu_aama_ra_chhora_2.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://archive.org/download/BabuAamaRaChhora-BpKoirala/BP_babu_aama_ra_chhora_3.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "http://archive.org/download/BabuAamaRaChhora-BpKoirala/BP_babu_aama_ra_chhora_4.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://archive.org/download/BabuAamaRaChhora-BpKoirala/BP_babu_aama_ra_chhora_5.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "http://archive.org/download/BabuAamaRaChhora-BpKoirala/BP_babu_aama_ra_chhora_6.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "http://archive.org/download/BabuAamaRaChhora-BpKoirala/BP_babu_aama_ra_chhora_7.mp3"
+      }
+    ]
   },
   {
     "title": "The Scarlet Letter ",
     "coverImageSourceUrl": "https://3.bp.blogspot.com/-0GTRkclYFjs/TvxcLMFoysI/AAAAAAAAAh4/Moa1iW7gg1o/s1600/Matteson_Scarlet_Letter.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://ia600408.us.archive.org/15/items/shrutisambeg6/shrutisambeg6.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://ia600507.us.archive.org/11/items/Shrutisambeg_Kalankini02/Kalankini02.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://ia600407.us.archive.org/17/items/shrutisambegscarlet3/scarletletter3.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://archive.org/download/shrutisambegscarlet4/shrutisambeg2.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://ia600406.us.archive.org/3/items/shrutisambegscarlet5/shrutisambeg2.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "http://ia600400.us.archive.org/30/items/Thescarlet6/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "http://ia600404.us.archive.org/2/items/scarletletterlast/shrutisambeg.mp3"
+      }
+    ]
   },
   {
     "title": "Cleopatra",
     "coverImageSourceUrl": "https://2.bp.blogspot.com/-lqTgyabj8RA/TvxmIESPzfI/AAAAAAAAAic/iQ-3sz6fLAY/s1600/coverCleopatra.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://www.archive.org/download/shrutisambegJan1/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://www.archive.org/download/shrutisambegJan8/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://www.archive.org/download/shrutisambegJan15/shrutisambeg2.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "http://www.archive.org/download/shrutisambegJan22/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://www.archive.org/download/shrutisambegJan29/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "http://www.archive.org/download/shrutiFeb5/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "http://www.archive.org/download/shrutisambegFeb12/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "http://www.archive.org/download/ShrutiFeb20/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "http://www.archive.org/download/shrutiFeb28/shrutisambeg4.mp3"
+      }
+    ]
   },
   {
     "title": "Nepali Novel Tin Ghumti",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://www.archive.org/download/ShrutiSambeg_teenghumti01/Episode1_bhadra19.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://www.archive.org/download/ShrutiSambeg_teenghumti02/Episode2_bhadra26.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://www.archive.org/download/shrutisambeg_teenghumti03/Episode3_asoj2.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "http://www.archive.org/download/shrutisambeg_teenghumti4/Episode4_asoj9.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://www.archive.org/download/ShrutiSambeg_teenghumti_episode05/Episode5_asoj16.mp3"
+      }
+    ]
   },
   {
     "title": "Eleven Minutes",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://ia600403.us.archive.org/4/items/Ss_elevenMinutes_epi01/11Minutes1stEpi_magh07.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://ia600405.us.archive.org/33/items/Ss_elevenMinutes_epi02/11Minutes2ndEpi_magh14.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://ia600403.us.archive.org/9/items/11minutes_episodec/11Minutes3rdEpi_magh28.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "http://ia600403.us.archive.org/19/items/11minutes_4thEpisode/11Minutes4thEpi_falgun06.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://www.archive.org/download/Ss_elevenMinutes_epi05/11Minutes5thEpi_falgun13.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "http://ia600403.us.archive.org/11/items/Ss_elevenMinutes_epi06/11Minutes6thEpi_falgun20.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "http://ia600405.us.archive.org/13/items/Ss_elevenMinutes_epi07/11Minutes7thEpi_falgun27.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "http://ia600403.us.archive.org/5/items/Ss_elevenMinutes_epi08/11Minutes8thEpi_chaitra04.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "http://ia600606.us.archive.org/35/items/Ss_elevenMinutes_epi09/11Minutes9thEpi_chaitra11.mp3"
+      },
+      {
+        "title": "Part-10",
+        "audioSource": "https://archive.org/download/Ss_elevenMinutes_epi11/11Minutes10thEpiChait18.mp3"
+      }
+    ]
   },
   {
     "title": "The Good Earth",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://ia600403.us.archive.org/26/items/SS_The_Good_Earth_a1st/KalyaniDharati1stEpi_067_09_13.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://ia600403.us.archive.org/4/items/SS_The_Good_Earth_b/KalyaniDharati2ndEpi_067_09_20.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://ia600405.us.archive.org/14/items/SS_The_Good_Earth_c/KalyaniDharati3rdEpi_067_09_27.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "http://www.archive.org/download/SS_The_Good_Earth_d/KalyaniDharati4thEpi_067_10_04.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://ia600403.us.archive.org/16/items/SS_The_Good_Earth_e/KalyaniDharati5thEpi_067_10_11.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "http://ia600403.us.archive.org/19/items/SS_The_Good_Earth_f6th/KalyaniDharati6thEpi_067_10_18.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "http://ia600405.us.archive.org/33/items/SS_The_Good_Earth_g/KalyaniDharati7thEpi_067_10_18.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "http://ia600405.us.archive.org/28/items/SS_The_Good_Earth_h/KalyaniDharati8thEpi_067_11_03.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "http://ia600403.us.archive.org/34/items/SS_The_Good_Earth_i/KalyaniDharati9thEpi_067_11_10.mp3"
+      },
+      {
+        "title": "Part-10",
+        "audioSource": "http://ia600405.us.archive.org/34/items/SS_The_Good_Earth_j/KalyaniDharati10thEpi_067_11_17.mp3"
+      },
+      {
+        "title": "Part-11",
+        "audioSource": "http://ia600405.us.archive.org/5/items/SS_The_Good_Earth_k/KalyaniDharati11thEpi_067_11_24.mp3"
+      },
+      {
+        "title": "Part-12",
+        "audioSource": "http://ia600405.us.archive.org/17/items/SS_The_Good_Earth_l/KalyaniDharati12thEpi_067_12_01.mp3"
+      },
+      {
+        "title": "Part-13",
+        "audioSource": "https://archive.org/download/TheGoodEarth_episode13/KalyaniDharati13thEpi_067_12_08.mp3"
+      },
+      {
+        "title": "Part-14",
+        "audioSource": "http://ia600606.us.archive.org/0/items/TheGoodEarth_episode14/KalyaniDharati14thEpi_067_12_15.mp3"
+      },
+      {
+        "title": "Part-15",
+        "audioSource": "http://ia600606.us.archive.org/8/items/TheGoodEarth_episode15/KalyaniDharati15thEpi_067_12_22.mp3"
+      },
+      {
+        "title": "Part-16",
+        "audioSource": "https://archive.org/download/TheGoodEarth_episode16/KalyaniDharati16thEpi_067_12_29.mp3"
+      }
+    ]
   },
   {
     "title": "The Alchemist",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://ia341315.us.archive.org/3/items/Ss_theAlchemist_epi01/Alchemist1st_2067_03_32.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://ia600100.us.archive.org/10/items/Ss_theAlchemist_epi02/Alchemist2nd2067_04_07.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://ia341320.us.archive.org/1/items/Ss_theAlchemist_epi03/Alchemist3rd_2067_04_14.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "http://ia341332.us.archive.org/2/items/Ss_theAlchemist_epi04/Alchemist4th_2067_04_21.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://archive.org/download/Ss_theAlchemist_epi05/Alchemist5th_2067_04_28.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/Ss_theAlchemist_epi06/Alchemist6th_2067_05_04.mp3"
+      }
+    ]
   },
   {
     "title": "Anabrit",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://www.archive.org/download/SS_Anawritta01/Anabritta1stEpi_2067_05_18.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://www.archive.org/download/SS_Anawritta02/Anabritta2ndEpi_2067_05_25.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://www.archive.org/download/SS_Anawritta03_Asoj01/Anabritta03Shrutisambeg3.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "http://www.archive.org/download/shruti_anawritta04/shrutisambeg4.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://ia341303.us.archive.org/3/items/SS_Anabritta_epi05/Anabritta5thEpi_2067_06_15.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/SS_Anabritta_epi06/Anabritta6thEpi_2067_06_22.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "https://archive.org/download/SS_Anabritta_epi07/Anabritta7thEpi_2067_06_29.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "https://archive.org/download/SS_Anabritta_epi08/Anabritta8thEpi_2067_07_05.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "https://archive.org/download/SS_Anawritaa_episode09_Kartik12/Anabritta9thEpi_2067_07_12.mp3"
+      },
+      {
+        "title": "Part-10",
+        "audioSource": "https://archive.org/download/SS_Anawritta_Episode10_Kartik19/Anabritta10thEpi_2067_07_19.mp3"
+      },
+      {
+        "title": "Part-11",
+        "audioSource": "https://archive.org/download/SS_Anawritta11th_20670726/Anabritta11thEpi_2067_07_26.mp3"
+      },
+      {
+        "title": "Part-12",
+        "audioSource": "https://archive.org/download/SS_Anawritta12th20670803/Anabritta12thEpi_2067_08_03_interview.mp3"
+      }
+    ]
   },
   {
     "title": "Akhet",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://www.archive.org/download/SS_aakhet01/Aakhet1st_2067_05_22.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://www.archive.org/download/SS_Aakhet02/Aakhet2nd_2067_05_29.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://www.archive.org/download/ShrutiSambeg_aakhet03/Aakhet3rd_2067_06_05.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "http://www.archive.org/download/SS_Aakhet04_972/Aakhet4th_2067_06_12.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "https://archive.org/download/SS_Aakhet05/Aakhet5th_asoj19.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/SS_Aakhet06/Shrutisambeg_aakhet6.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "https://archive.org/download/SS_Aakhet07/Aakhet7th_kartik03.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "https://archive.org/download/SS_Aakhet08_kartik10/Aakhet8th_kartik10.mp3"
+      }
+    ]
   },
   {
     "title": "Pani ko Gham",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Pani ko Gham Full Audio",
+        "audioSource": "https://archive.org/download/shrutisambegMay22/shrutisambeg.mp3"
+      }
+    ]
   },
   {
     "title": "Nepali Novel Communist",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Nepali Novel Communist Full Audio",
+        "audioSource": "http://www.archive.org/download/shrutiSambegMay8/shrutisambeg.mp3"
+      }
+    ]
   },
   {
     "title": "Nepali Story Dash Lahar Katha  Sangraha",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Nepali Story Dash Lahar Katha  Sangraha Full Audio",
+        "audioSource": "http://www.archive.org/download/shrutisambegMay15/shrutisambeg.mp3"
+      }
+    ]
   },
   {
     "title": "Story of Maxim Gorky",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Story of Maxim Gorky Full Audio",
+        "audioSource": "http://www.archive.org/download/shrutiMarch10/shrutisambeg.mp3"
+      }
+    ]
   },
   {
     "title": "Nepali Novel Durbhikshya",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://ia600700.us.archive.org/3/items/SS_Durbhikshya01/Durbikchya1st.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/SS_Durbhikshya02/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://ia600705.us.archive.org/31/items/SS_Durbhikshya03/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://archive.org/download/SS_Durbhikshya04/Durbikchya4th.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://ia600702.us.archive.org/31/items/SS_Durbhikshya05/Durbikchya5th.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/SS_Durbhikshya06/Durbikchya6th.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "https://archive.org/download/SS_Durbhikshya07/Urbikchya7th.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "https://archive.org/download/SS_Durbhikshya08/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "https://archive.org/download/SS_Durbhikshya09/Urbikchya9th.mp3"
+      },
+      {
+        "title": "Part-10",
+        "audioSource": "https://archive.org/download//SS_Durbhikshya10/Durbikchya10th.mp3"
+      }
+    ]
   },
   {
     "title": "Nepali Novel Chyatna nasakeko chitthi",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://archive.org/download/SS_Deepak_Khadka_CNC01/DipakKhadaka1st_2068_06_17.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/SS_DeepakKhadka_CNC02/DipakKhadaka2nd_2068_06_24.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/SS_DeepakKhadka_CNC03/DipakKhadaka3rd_2068_07_01.mp3"
+      }
+    ]
   },
   {
     "title": "Nepali Novel Muglaan",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://ia600807.us.archive.org/13/items/SS_Muglaan01/Muglaan1st_Ashoj20_2068.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://archive.org/download/SS_Muglaan02/Muglaan2nd_ashoj27_2068.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://ia600708.us.archive.org/12/items/SS_Muglaan03/Muglaan3rd_kartik04_2068.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "https://archive.org/download/SS_Muglaan04/Muglaan4th_kartik11_2068.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://ia600802.us.archive.org/23/items/SS_Muglaan05/Muglaan5th_kartik18_2068.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/SS_Muglaan06/Muglaan6th_kartik25_2068.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "http://ia600802.us.archive.org/6/items/SS_Muglaan07/MuglaanIntervew.mp3"
+      }
+    ]
   },
   {
     "title": "Neela aakhwali",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Neela aakhwali Full Audio",
+        "audioSource": "http://www.archive.org/download/shrutisambeg3/shrutisambeg3.mp3"
+      }
+    ]
   },
   {
     "title": " Naagpash",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": " Naagpash Full Audio",
+        "audioSource": "https://ia802702.us.archive.org/14/items/SS_Katha_Naagpaash/Naagpaash.mp3"
+      }
+    ]
   },
   {
     "title": "Deuki",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Deuki Full Audio",
+        "audioSource": "https://ia801407.us.archive.org/5/items/SS_Katha_DeukiPatrachayan/Deuki_patraChayan.mp3"
+      }
+    ]
   },
   {
     "title": " Prastab Prem",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": " Prastab Prem Full Audio",
+        "audioSource": "https://ia802500.us.archive.org/33/items/Ss_maniLohani_stories/ManiLohani.mp3"
+      }
+    ]
   },
   {
     "title": "karagar nepali novels, Shruti Sambeg, Achyut Ghimire",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://www.archive.org/download/SS_Kaaragar_epi01_20670723/Kaaragar1st_2067_07_23.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://www.archive.org/download/SS_Kaaragar2nd20670730/Kaaragar2nd_2067_07_30.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://ia600301.us.archive.org/17/items/SS_Kaaragar3rd_20670807/Kaaragar3rd_2067_08_07.mp3"
+      }
+    ]
   },
   {
     "title": "Nepali Novel Lahure Bhaisi",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Nepali Novel Lahure Bhaisi Full Audio",
+        "audioSource": "https://archive.org/download/Kathasansar20081227T2248290800/kathasansar_2008-12-27T22_48_29-08_00.mp3"
+      }
+    ]
   },
   {
     "title": "Nepali Novel Aadha Bato",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://www.archive.org/download/shrutiMarch17/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://www.archive.org/download/shrutiMarch24/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://www.archive.org/download/shrutiMarch31/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "http://www.archive.org/download/shrutiSambegApril7/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://www.archive.org/download/shrutiApril14/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "http://www.archive.org/download/shrutisambeg_aadhabaato06/Aadhabaato06_baisakh07.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "http://www.archive.org/download/shrutisambegApril28/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "http://www.archive.org/download/ShrutiSambeg_aadhabaato08/Aadhabaato08_baisakh21.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "http://www.archive.org/download/shrutisambegMay4/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-10",
+        "audioSource": "http://www.archive.org/download/shrutisambegMay19/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-11",
+        "audioSource": "http://www.archive.org/download/shrutisambegMay25/shrutisambeg.mp3"
+      },
+      {
+        "title": "Part-12",
+        "audioSource": "http://www.archive.org/download/aadhabaato12/Aadhabaato12.mp3"
+      },
+      {
+        "title": "Part-13",
+        "audioSource": "http://www.archive.org/download/ShrutiSambeg_aadhabato13/Aadhabaato13_jestha18.mp3"
+      },
+      {
+        "title": "Part-14",
+        "audioSource": "http://www.archive.org/download/ShrutiSambeg_aadhabaato14/Aadhabaato14_jestha25.mp3"
+      },
+      {
+        "title": "Part-15",
+        "audioSource": "http://www.archive.org/download/shrutisambeg_aadhabato15/Aadhabaato15_asar01.mp3"
+      },
+      {
+        "title": "Part-16",
+        "audioSource": "http://www.archive.org/download/Shrutisambeg_aadhabaato16/Aadhabaato16_asar08.mp3"
+      },
+      {
+        "title": "Part-17",
+        "audioSource": "http://www.archive.org/download/shrutisambeg_aadhabaato17/Aadhabaato17_asar15.mp3"
+      }
+    ]
   },
   {
     "title": "Nepali Novel Jhola",
     "coverImageSourceUrl": "https://4.bp.blogspot.com/-IYZW8-fRGmI/UADYIwp6tGI/AAAAAAAABKQ/tRDfNt-7Jpc/s200/Jhola%2B%252B%2BKrishna%2BDharabasi.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Nepali Novel Jhola Full Audio",
+        "audioSource": "https://ia800302.us.archive.org/28/items/Jhola/Jhola.mp3"
+      }
+    ]
   },
   {
     "title": "Antarman ko Yatra",
     "coverImageSourceUrl": "https://4.bp.blogspot.com/-xbv39meuPuU/T3VBWUtKd9I/AAAAAAAABAY/mfFfrIsf7v4/s200/jagdish-ghimire.jpg",
-    "chapters": []
-  },
-  {
-    "title": "Jagadish Ghimire",
-    "coverImageSourceUrl": "http://4.bp.blogspot.com/-xbv39meuPuU/T3VBWUtKd9I/AAAAAAAABAY/mfFfrIsf7v4/s200/jagdish-ghimire.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://www.archive.org/download/Episode1-AntarManKoYatra-jagdishGhimireShruti-sambeg-2011-12-02/Episode1-AntarManKoYatra-jagdishGhimireShruti-sambeg-2011-12-02.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://ia600807.us.archive.org/32/items/Episode2-AntarManKoYatrajagdishGhimire-2011-12-09UploadedByRam/Episode2-AntarManKoYatrajagdishGhimire-2011-12-09.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://ia600801.us.archive.org/30/items/SS_Antarmankoyatra03/ShrutiSambeg2011_12_16.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "http://www.archive.org/download/SS_Antarmankoyatra04/ShrutiSambeg2011_12_23.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://www.archive.org/download/SS_Antarmankoyatra05/Shruti-Sambeg-2011-12-30_Antarman05.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "http://ia600801.us.archive.org/34/items/SS_Antarmankoyatra06/Shruti-Sambeg-2012-01-06_Antarman06.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "http://ia600804.us.archive.org/29/items/SS_Antarmankoyatra07/Shruti-Sambeg-2012-01-13.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "http://ia600805.us.archive.org/7/items/SS_Antarmankoyatra08/Jagdish08_shrutiSambeg2012_01_20.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "http://www.archive.org/download/SS_Antarmankoyatra09/Jagdish09_shrutiSambeg2012_01_27.mp3"
+      },
+      {
+        "title": "Part-10",
+        "audioSource": "http://ia600807.us.archive.org/34/items/SS_Antarmankoyatra10/Jagdish10_shrutiSambeg.mp3"
+      },
+      {
+        "title": "Part-11",
+        "audioSource": "https://archive.org/download/SS_Antarmankoyatra11/Jagdish11_shrutiSambeg.mp3"
+      },
+      {
+        "title": "Part-12",
+        "audioSource": "http://ia600803.us.archive.org/22/items/SS_Antarmankoyatra12/Shruti-Sambeg-Jagdish-Ghimire-12th--2012-02-24.mp3"
+      }
+    ]
   },
   {
     "title": "Phool ko Aankha ma",
     "coverImageSourceUrl": "https://3.bp.blogspot.com/-UPLUYuU_S28/T47k4ornYyI/AAAAAAAABAg/h7tYCNWljnI/s1600/Phool+ko+aankha+ma.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://ia600605.us.archive.org/22/items/Episode-1FulKoAnkhamaaniChhoyingDolma-www.chisapaninepal.blogspot.com/Episode-1FulKoAnkhamaaniChhoyingDolma-www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://ia600303.us.archive.org/10/items/Episode-2FulKoAnkhamaaniChhoyingDolma-www.chisapaninepal.blogspot.com/Episode-2FulKoAnkhamaaniChhoyingDolma-www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://ia600602.us.archive.org/34/items/Episode-3FulKoAnkhamaaniChhoyingDolma--2011_11_14-/Episode-3FulKoAnkhamaaniChhoyingDolma--2011_11_14-Www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "http://ia600707.us.archive.org/20/items/Episode-4FulKoAnkhamaaniChhoyingDolma-Www.chisapaninepal.blogspot.com/Episode-4FulKoAnkhamaaniChhoyingDolma-Www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://ia600303.us.archive.org/28/items/Episode-5FulKoAnkhamaaniChhoyingDolma-/Episode-5FulKoAnkhamaaniChhoyingDolma-2011_11_29-www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "http://ia600208.us.archive.org/20/items/Episode-6FulKoAnkhamaaniChhoyingDolma/Episode-6FulKoAnkhamaaniChhoyingDolma-2011_12_06-www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "http://ia601208.us.archive.org/5/items/Episode-7FulKoAnkhama/Episode-7FulKoAnkhamaShruti-sambeg-2011-12-13-www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "http://ia600800.us.archive.org/31/items/Episode-8FulKoAnkhamaaniChyoingDolma/Episode-8FulKoAnkhamaaniChyoingDolma-2011_12_20-www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "http://ia600607.us.archive.org/18/items/Episode-9FulKoAnkhamaanyChoyingDolma/Episode-9FulKoAnkhamaanyChoyingDolma-2011_12_27-22-www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-10",
+        "audioSource": "http://ia600707.us.archive.org/13/items/Episode-10-FulKoAnkhaMaaniChoyingDolma/Episode-10-FulKoAnkhaMaaniChoyingDolma2012-01-03-www.chisapaninepal.blogspot.com.mp3"
+      }
+    ]
   },
   {
     "title": "Ma Hideko Bato",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://ia600808.us.archive.org/17/items/SS_Mahidekobato_01/MaHidekoBato_01.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://ia600806.us.archive.org/7/items/SS_Mahidekobato_02/MaHidekoBato_02.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/MaHidekoBato3sitaDeviPokharelUploadedByKirandhakal.blogspot.com/MaHidekoBato3sitaDeviPokharel.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "http://ia600805.us.archive.org/16/items/SS_Mahidekobato_04/MaHidekoBato_04.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://ia600800.us.archive.org/17/items/SS_Mahidekobato_05/MaHidekoBato_05.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/MaHidekoBato6sitaDeviPokharelUploadedByKirandhakal.blogspot.com/MaHidekoBato6sitaDeviPokharel.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "http://ia600802.us.archive.org/34/items/SS_MaHidekoBaato7/SsmaHinekoBaato7th.mp3"
+      }
+    ]
   },
   {
     "title": "Santa Gatha",
     "coverImageSourceUrl": "https://4.bp.blogspot.com/-QOw7JY5HTcI/UPE3wXHf03I/AAAAAAAABgc/xBWZ8XPC_4w/s200/%252B%2BSanta%2BGatha%2B%252B%2B%2Bsanta.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://ia601202.us.archive.org/17/items/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/01.santaGatha_rajaJanakko_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://ia601202.us.archive.org/17/items/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/02.santaGatha_mrityusangaKoSatatProg2_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://archive.org/download/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/03.santaGatha_gangatatkoSadhanaProg3_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "http://ia601202.us.archive.org/17/items/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/04.santaGatha_totapuriBabakoSamadhi_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-5",
+        "audioSource": "http://ia601202.us.archive.org/17/items/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/05.santaGatha_shringardekhiBairagyasamma_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-6",
+        "audioSource": "https://archive.org/download/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/06.santaGatha_bidrohiSantaGuruNanak_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-7",
+        "audioSource": "http://ia601202.us.archive.org/17/items/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/07.santaGatha_kumbhaMelakoSamjhana_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-8",
+        "audioSource": "https://archive.org/download/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/08.santaGatha_gokhlebabakoSmaran_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-9",
+        "audioSource": "https://archive.org/download/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/09.santaGatha_gokhlebabakoSmaran-2_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-10",
+        "audioSource": "https://archive.org/download/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/10.santaGatha_ramanMaharshi_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-11",
+        "audioSource": "https://archive.org/download/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/11.santaGatha_gandhiJee_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-12",
+        "audioSource": "http://ia601202.us.archive.org/17/items/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/12.santaGatha_bilakshyanPustakAnuragiOsho_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-13",
+        "audioSource": "https://archive.org/download/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/14.santaGatha_bitaragiOsho_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-14",
+        "audioSource": "https://archive.org/download/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/14.santaGatha_bitaragiOsho_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-15",
+        "audioSource": "http://ia601202.us.archive.org/17/items/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/15.santaGatha_oshoEkNayaYugksSutradhar_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-16",
+        "audioSource": "http://ia601202.us.archive.org/17/items/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/16.santaGatha_feriPuraniAatmabanchana2_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-17",
+        "audioSource": "http://ia601202.us.archive.org/17/items/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/17.santaGatha_swamiRamtirthaEkParichaya-_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-18",
+        "audioSource": "http://ia601202.us.archive.org/17/items/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/18.santaGatha_ParamatmamaiPurnaAasrithRamtirtha_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-19",
+        "audioSource": "http://ia601202.us.archive.org/17/items/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/19.santaGatha_gangaputraSwamiRamtirtha_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-20",
+        "audioSource": "http://ia601202.us.archive.org/17/items/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/20.santaGatha_pyaskoPratiuttar_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-21",
+        "audioSource": "http://ia601202.us.archive.org/17/items/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/21.santaGatha_jogikoApamaanParamatmakaiApamaanHo_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-22",
+        "audioSource": "http://ia601202.us.archive.org/17/items/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/22.santaGatha_jabaTanchhaAlaukikSaudaryaLe_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-23",
+        "audioSource": "https://archive.org/download/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/23.santaGatha_samayaRaJagatkoRahasya_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-24",
+        "audioSource": "http://ia601202.us.archive.org/17/items/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/24.santaGatha_smasaanBairag_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-25",
+        "audioSource": "https://archive.org/download/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/25.santaGatha_punarjanmakoBastabikata_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-26",
+        "audioSource": "http://ia601202.us.archive.org/17/items/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/26.santaGatha_nirashHridayamaAashakoSanchar_www.chisapaninepal.blogspot.com.mp3"
+      },
+      {
+        "title": "Part-27",
+        "audioSource": "http://ia601202.us.archive.org/17/items/SantaGathaBySwamiAnandArunInAudioEdition_www.chisapaninepal.blogspot.com/27.santaGatha_bitaraag_www.chisapaninepal.blogspot.com.mp3"
+      }
+    ]
   },
   {
     "title": "China Harayeko Manche",
     "coverImageSourceUrl": "https://2.bp.blogspot.com/-7cnPCbfMI00/UZ5HRGO2oOI/AAAAAAAABjk/wwE1M_QZJtM/s320/+Chinaa+++Haraayeko+++Manche.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://ia801504.us.archive.org/0/items/Episode1-AutobiographyChinaHarayekoManchhe-HaribansaAcharya-2016-09-20ChisapaniNepal/Episode%201-Autobiography%20China%20Harayeko%20Manchhe-Haribansa%20Acharya-2016-09-20%20(Chisapani%20Nepal).mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://ia801507.us.archive.org/16/items/Episode2-AutobiographyChinaHarayekoManchhe-HaribansaAcharya-2016-9-27ChisapaniNepal/Episode%202-Autobiography%20China%20Harayeko%20Manchhe-Haribansa%20Acharya-2016-9-27%20(Chisapani%20Nepal).mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://ia801507.us.archive.org/16/items/Episode2-AutobiographyChinaHarayekoManchhe-HaribansaAcharya-2016-9-27ChisapaniNepal/Episode%202-Autobiography%20China%20Harayeko%20Manchhe-Haribansa%20Acharya-2016-9-27%20(Chisapani%20Nepal).mp3"
+      }
+    ]
   },
   {
     "title": "Divaswapna",
     "coverImageSourceUrl": "https://3.bp.blogspot.com/-11kw1poQTBw/UhQ256QiuhI/AAAAAAAAB-Y/Zb101u8JRUU/s200/++Divaswapna+++Gijubhai.jpg",
-    "chapters": []
-  },
-  {
-    "title": "Chinese Novel",
-    "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://archive.org/download/NepaliNovel_divaswapnaByGijubhai_audio_listenAnd/Divaswapna-1_gijubhai_downloadedFromWww.ashishdanai.com.np.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://archive.org/download/NepaliNovel_divaswapnaByGijubhai_audio_listenAnd/Divaswapna-2_gijubhai_downloadedFromWww.ashishdanai.com.np.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "http://archive.org/download/NepaliNovel_divaswapnaByGijubhai_audio_listenAnd/Divaswapna-3_gijubhai_downloadedFromWww.ashishdanai.com.np.mp3"
+      },
+      {
+        "title": "Part-4",
+        "audioSource": "http://archive.org/download/NepaliNovel_divaswapnaByGijubhai_audio_listenAnd/Divaswapna-4_gijubhai_downloadedFromWww.ashishdanai.com.np.mp3"
+      }
+    ]
   },
   {
     "title": "Parikrama Annapurna",
     "coverImageSourceUrl": "https://3.bp.blogspot.com/-FkvyPxqgyn0/UoeRl4rQE8I/AAAAAAAACHw/EWqUfGwm0o4/s200/++parikrama+annapurna.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Parikrama Annapurna Full Audio",
+        "audioSource": "https://archive.org/download/ParikramaAnnapurna/Niyatra_Pradeep%20Dhakal%20-%20Parikrama%20Annapurna%20_Chuchurokadeutalaainamastecha_thorangraRathorangri_aakashbataipadyatra%20-%20Shruti-Sambeg%20-2013-09-27.mp3"
+      }
+    ]
   },
   {
     "title": "Jhunu Maiya",
     "coverImageSourceUrl": "https://1.bp.blogspot.com/-IeM2UbE_G_c/UoeOkajALeI/AAAAAAAACHk/d0Kxx7hVKgc/s200/++jhunu+maiya+++tej+prasad+ka+katha.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Jhunu Maiya Full Audio",
+        "audioSource": "https://archive.org/download/TejPrasadSitaulaTejPrasadKaKathaharuKathaJhoonuMaiyaa/TejPrasadSitaula-TejPrasad%20kaKathaharu-katha-%20Jhoonu%20Maiyaa-Shruti-Sambeg-2013-08-30-1st.mp3"
+      }
+    ]
   },
   {
     "title": "Location",
     "coverImageSourceUrl": "https://4.bp.blogspot.com/-a_4zgk15QJc/UomIqFSlmWI/AAAAAAAACIA/0BjhGWucJkA/s200/++Location+++Deepak+Sapkota.jpeg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Location Full Audio",
+        "audioSource": "https://ia601007.us.archive.org/0/items/DipakSapkota_Location/Nibandha_Dipak%20Sapkota%20-%20Location%20_paschimidhunmanrityamayathamel_brihatmachabajar_krandanradhuwamapuriyekoaryaghat%20-%20Shruti-Sambeg%20-2013-09-20.mp3"
+      }
+    ]
   },
   {
     "title": "Nilo Trishna, Niskarsha",
     "coverImageSourceUrl": "https://3.bp.blogspot.com/-hqyzAs2Eh7U/UomNODbVrTI/AAAAAAAACIM/FyGg8_7PPhI/s200/+Nilo+Trishna++niskarsa.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Nilo Trishna, Niskarsha Full Audio",
+        "audioSource": "http://ia601004.us.archive.org/0/items/NiloTrishna_shrabyakitab.blogspot.com/BidhyaSapkota-NiloTrisna-Katha-NiloTrisna-Katha-nishkarsha.mp3"
+      }
+    ]
   },
   {
     "title": "Saharko Khojima | Ujyalo Tira | Euta Antya",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://ia601904.us.archive.org/0/items/SwapnilNirav_SaruPokhrel/Swapnil%20Nirav%20-%20Ujyalo%20tira%20-%20katha-Shahar%20ko%20khojimaa%20-%20katha-Ujyalo%20Tira%20-%202013-08-20%20-%20Shruti-Sambeg.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://ia601904.us.archive.org/0/items/SwapnilNirav_SaruPokhrel/Swapnil%20Nirav%20-%20katha-Ujyalo%20tira_baki%20ansha%20-%20Saru%20Pokhrel%20-%20%20Muna%20tusayepachi%20-%20katha-Euta%20Antya%20-%20Shruti-Sambeg-2013-08-27.mp3"
+      }
+    ]
   },
   {
     "title": "Kandaaghari Kaa Phool Haru",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "https://ia601902.us.archive.org/29/items/RamdevPandeyKandaghariKaPhoolharu/Ramdev%20Pandey%20-%20Kandaghari%20ka%20Phoolharu%20-%20Helen%20Killer%20-%202013-08-09-Shruti-Sambeg-1st.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "https://ia601902.us.archive.org/29/items/RamdevPandeyKandaghariKaPhoolharu/Ramdev%20Pandey%20-%20Kandaghari%20ka%20Phoolharu%20-%20Rasmi%20Kharel%20-%202013-08-16-Shruti-Sambeg-2nd.mp3"
+      },
+      {
+        "title": "Part-3",
+        "audioSource": "https://ia601902.us.archive.org/29/items/RamdevPandeyKandaghariKaPhoolharu/Ramdev%20Pandey%20-%20Kandaghari%20ka%20Phoolharu%20-%20Krishna%20Prasad%20Poudel%20-%202013-08-23-Shruti-Sambeg-3rd.mp3"
+      }
+    ]
   },
   {
     "title": "Stories from Hawan",
     "coverImageSourceUrl": "https://4.bp.blogspot.com/-h52yTU5i4Nw/UpMCvNiF-TI/AAAAAAAACJg/BvgR_FrjE2A/s200/++Hawan+++Neelam+Karki+++Niharika.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Part-1",
+        "audioSource": "http://ia600208.us.archive.org/5/items/aakarpost_43/NilamKarkisHawan-2.mp3"
+      },
+      {
+        "title": "Part-2",
+        "audioSource": "http://ia600502.us.archive.org/19/items/aakarpost_142/NilamKarkisHawan-1.mp3"
+      }
+    ]
   },
   {
     "title": "Yatra Aarambhako Serofero",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Yatra Aarambhako Serofero Full Audio",
+        "audioSource": "https://ia801904.us.archive.org/29/items/PaschimaHaruKoDeshmaShrutisambeg/2013_02_01-PaschimaHaruKoDeshma-shrutisambeg-niyatraByGeetaRegmi.mp3"
+      }
+    ]
   },
   {
     "title": "Kaidi Number 11 | Janmina Napayeka Nani Haru\n",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Kaidi Number 11 | Janmina Napayeka Nani Haru\n Full Audio",
+        "audioSource": "https://archive.org/download/KaidiNo11_janminaNapayekaNaniharu/Badri%20Adhikari_kaidi%20No%2011_akbari%20Sun%20katha%20sangraha_garima%202066_nilam%20karki%20niharika_beli%20katha%20sangraha_janmina%20napayeka%20naniharu%20-%20Shruti-Sambeg%20-2014-01-21.mp3"
+      }
+    ]
   },
   {
     "title": "Urmila | Surparnkha",
     "coverImageSourceUrl": " ",
-    "chapters": []
-  },
-  {
-    "title": "Nepali Story | Laghu Katha | Short Story",
-    "coverImageSourceUrl": "http://3.bp.blogspot.com/-v4Q4ZTYaqYk/UvRmCDcRq3I/AAAAAAAACNM/sh1TfFOJreg/s200/Laghu+Katha.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Urmila | Surparnkha Full Audio",
+        "audioSource": "https://archive.org/download/Dr.DinbandhuSharmaKatha/Dr.Dinbandhu%20Sharma%20-%20Katha%20-%20Urmila_madhuparka%202065%20Jestha_Supankha_samasti%20traimasik%20-%20Shruti%20Sambeg%20-2014-01-17.mp3"
+      }
+    ]
   },
   {
     "title": "Aakarharu ra Chhaayaaharu | Nepali Story",
     "coverImageSourceUrl": "https://1.bp.blogspot.com/-fn3SMX4gXx4/U2mkHmKXPtI/AAAAAAAACRI/NQAR0XnMvQk/s200/++Indra+Bahadur+Rai.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Aakarharu ra Chhaayaaharu | Nepali Story Full Audio",
+        "audioSource": "https://archive.org/download/IndraBahadurRaiKathastha/Indra%20Bahadur%20Rai%20-%20Kathastha%20katha%20sangraha%20-%20Katha%20-%20Aakar%20haru%20Chaayaa%20haru%20-%20Shruti-Sambeg%20-2014-05-06.mp3"
+      }
+    ]
   },
   {
     "title": "Yesari Janmiyaou Hami Maato Baata",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Yesari Janmiyaou Hami Maato Baata Full Audio",
+        "audioSource": "https://ia902506.us.archive.org/12/items/StoryYasariHamiJanmiyeuShrutiSambegChisapaniNepal20140509.mp3/Story-%20Yasari%20Hami%20Janmiyeu-Shruti-Sambeg-%28Chisapani%20Nepal%29-2014-05-09.mp3.mp3"
+      }
+    ]
   },
   {
     "title": "Chuki | Nepali Story",
     "coverImageSourceUrl": "https://2.bp.blogspot.com/-fmkIL_EyKEE/U2mTgP7fkFI/AAAAAAAACQ4/AlXXMhY88g8/s200/++Chuki+story.JPG",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Chuki | Nepali Story Full Audio",
+        "audioSource": "https://archive.org/download/hastry/Chuki.mp3"
+      }
+    ]
   },
   {
     "title": "Comrade Anjana | Nepali Story",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Comrade Anjana | Nepali Story Full Audio",
+        "audioSource": "https://archive.org/download/hastry/ComradeAnjana.mp3"
+      }
+    ]
   },
   {
     "title": "Urmila | Nepali Story",
     "coverImageSourceUrl": "https://1.bp.blogspot.com/-IPdM9T8A3c0/U4_rZ_-8m3I/AAAAAAAACaw/3biSLJiM_bk/s200/+Urmila+++Nepali+Story.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Urmila | Nepali Story Full Audio",
+        "audioSource": "https://archive.org/download/hastry/Urmila-story.mp3"
+      }
+    ]
   },
   {
     "title": "Suparnakha | Nepali Story",
     "coverImageSourceUrl": "https://2.bp.blogspot.com/-qmjyW-xo_Ec/U4_whfkbHAI/AAAAAAAACbA/ds_WANtx8Fg/s200/++surpanakha+++nepali+story.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Suparnakha | Nepali Story Full Audio",
+        "audioSource": "https://archive.org/download/hastry/Suparnakha-story.mp3"
+      }
+    ]
   },
   {
     "title": "Arko Jeevan | Nepal Story",
     "coverImageSourceUrl": "https://2.bp.blogspot.com/-6-5Crh9T-Y4/U5BudSeIP7I/AAAAAAAACbU/8439FnjL8Vc/s200/++arko+Janma.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Arko Jeevan | Nepal Story Full Audio",
+        "audioSource": "https://archive.org/download/hastry/Arko%20Jeevan-story.mp3"
+      }
+    ]
   },
   {
     "title": "Dristi | Nepali Story",
     "coverImageSourceUrl": "https://1.bp.blogspot.com/-q-EnKb99o08/U5BzdKIagxI/AAAAAAAACbk/D3dDwIgK1Bw/s200/++Duswopna+++Dristi.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Dristi | Nepali Story Full Audio",
+        "audioSource": "https://archive.org/download/hastry/Dristi-story.mp3"
+      }
+    ]
   },
   {
     "title": "Living Together | Nepali Story",
     "coverImageSourceUrl": "https://1.bp.blogspot.com/-q-EnKb99o08/U5BzdKIagxI/AAAAAAAACbk/D3dDwIgK1Bw/s200/++Duswopna+++Dristi.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Living Together | Nepali Story Full Audio",
+        "audioSource": "https://archive.org/download/hastry/Living%20Togetheri-story.mp3"
+      }
+    ]
   },
   {
     "title": "Lakure Pheri Phulne Cha | Nepali Story",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Lakure Pheri Phulne Cha | Nepali Story Full Audio",
+        "audioSource": "https://archive.org/download/hastry/Arko%20Jeevan-story.mp3"
+      }
+    ]
   },
   {
     "title": "Nilo Trishna | Nepali Story",
     "coverImageSourceUrl": "https://3.bp.blogspot.com/-hqyzAs2Eh7U/UomNODbVrTI/AAAAAAAACIM/FyGg8_7PPhI/s200/+Nilo+Trishna++niskarsa.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Nilo Trishna | Nepali Story Full Audio",
+        "audioSource": "https://archive.org/download/hastry/Nilo%20Trishna.mp3"
+      }
+    ]
   },
   {
     "title": "Niskarsa | Nepali Story",
     "coverImageSourceUrl": "https://3.bp.blogspot.com/-hqyzAs2Eh7U/UomNODbVrTI/AAAAAAAACIM/FyGg8_7PPhI/s200/+Nilo+Trishna++niskarsa.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Niskarsa | Nepali Story Full Audio",
+        "audioSource": "https://archive.org/download/hastry/Niskarsa.mp3"
+      }
+    ]
   },
   {
     "title": "Fatemako Anido Raat | Christina at the Rate | Mrityu Mela | Raju Babu Shrestha",
     "coverImageSourceUrl": "http://4.bp.blogspot.com/-i08xVF0pWig/VNL-YIrmdkI/AAAAAAAACuA/LRKkC6aCa1o/s320/%2B%2Bmrityu%2B%2B%2Bmela.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Fatemako Anido Raat | Christina at the Rate | Mrityu Mela | Raju Babu Shrestha Full Audio",
+        "audioSource": "https://archive.org/download/RajuBabuShrestha_Mrityumela/Raju%20Babu%20Shrestha%20-%20Mrityumela%20kathasangraha%20-%20Fatimako%20Anido%20raat%20-%20Kristina%20at%20the%20rate%20-Shruti-Sambeg%20-2015-01-30.mp3"
+      }
+    ]
   },
   {
     "title": "Chita Mathi ko Bihani | Kahile Banda Nahune Dhoka | Chita Mathiko Bihani",
     "coverImageSourceUrl": "http://1.bp.blogspot.com/-ODhuCu0BwS4/VOAA_Td9ouI/AAAAAAAACuU/601KORKwF0Q/s200/%2B%2BChita%2Bmathi%2Bko%2Bbihani%2B%2B%2BGobinda%2BKadel.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Chita Mathi ko Bihani | Kahile Banda Nahune Dhoka | Chita Mathiko Bihani Full Audio",
+        "audioSource": "https://archive.org/download/ChitaMathiKoBihani/Gobinda%20Prasad%20Kandel%20-%20Chitamathiko%20bihani%20sangraha%20-%20kahile%20banda%20nahune%20dhoka%20-%20Shruti-Sambeg%20-2015-02-06.mp3"
+      }
+    ]
   },
   {
     "title": "Post Martum | Nepali Story",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Post Martum | Nepali Story Full Audio",
+        "audioSource": "https://archive.org/download/hastry/Post%20Martum.mp3"
+      }
+    ]
   },
   {
     "title": "Udharo Jutta | Nepali Story",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Udharo Jutta | Nepali Story Full Audio",
+        "audioSource": "https://archive.org/download/hastry/Udharo%20Jutta.mp3"
+      }
+    ]
   },
   {
     "title": "Pema Bhauju | Grihayuddha ko Ghau katha sangraha",
     "coverImageSourceUrl": "http://1.bp.blogspot.com/-GYXMDHPeEi8/U7gSopyDQBI/AAAAAAAACck/lXOB_DPTVUw/s200/+griha+yuddhako+ghaau+haru+++Rajubabu+Shrestha.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Pema Bhauju | Grihayuddha ko Ghau katha sangraha Full Audio",
+        "audioSource": "https://archive.org/download/rbsgyg/Pema%20Bhauju.mp3"
+      }
+    ]
   },
   {
     "title": "Chiso Gham | Pratirup | Parai Aama | Saru Pokhrel",
     "coverImageSourceUrl": "http://1.bp.blogspot.com/-CQhKzSjuDmE/VGbf0qzERkI/AAAAAAAACmE/6-g4IFvAgQk/s1600/%2B%2BChiso%2BGham%2B%2B%2BSaru%2BPokhrel.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Chiso Gham | Pratirup | Parai Aama | Saru Pokhrel Full Audio",
+        "audioSource": "https://archive.org/download/SaruPokhrelChisoGhamKathaSangraha/Saru%20Pokhrel%20-%20Chiso%20Gham%20katha%20sangraha%20-%20Pratirup%20-%20Parayi%20Aama%20-%20Shruti-Sambeg-2014-09-23.mp3"
+      }
+    ]
   },
   {
     "title": "19 Number | Skhalan | Anamol Mani Poudel",
     "coverImageSourceUrl": "http://1.bp.blogspot.com/-WY3grN05030/VNL57eAu5AI/AAAAAAAACt0/N8Rk0dzsYWY/s320/%2B%2Bnilima%2Bra%2B%2B%2Bgadha%2Bandhyaro.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "19 Number | Skhalan | Anamol Mani Poudel Full Audio",
+        "audioSource": "https://archive.org/download/AnamolManiKaKathaharu/Anamol%20Mani%20Ka%20Katha%20-%2019%20number%20-%20Skhalan%20-%20Shruti-Sambeg-2015-01-23.mp3"
+      }
+    ]
   },
   {
     "title": "Budho Kusumko Rukh | Duri Parda Bhitra Parda Bahira | Aawaz",
     "coverImageSourceUrl": "http://1.bp.blogspot.com/-xniktO5yLLE/VGbnkLGJkaI/AAAAAAAACmU/ZtPMIEEFFCY/s1600/%2B%2Btej%2Bprasad%2Bka%2Bkatha.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Budho Kusumko Rukh | Duri Parda Bhitra Parda Bahira | Aawaz Full Audio",
+        "audioSource": "https://archive.org/download/TejPrasadSitaulaTejPrasadKaKatha/TejPrasadSitaula-TejPrasadKaKatha-BudoKusumKoRukhRaSanu-DooriPardaBhitraPardaBahira-Aawaj-Shruti-sambeg-2014-08-22.mp3"
+      }
+    ]
   },
   {
     "title": "Kabi ek Rekhachitra | Comrade ek Kathaharu",
     "coverImageSourceUrl": "http://2.bp.blogspot.com/-zBR5H-1TFvM/VP0k6ekOKwI/AAAAAAAACw4/ZdguBNwjqJM/s200/%2B%2BMaxim%2B%2B%2BGorky.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Kabi ek Rekhachitra | Comrade ek Kathaharu Full Audio",
+        "audioSource": "https://ia601506.us.archive.org/27/items/StoriesByMaximGorkiInShrutiSambeg20150303ChisapaniNepal/Stories%20by%20Maxim%20Gorki%20in%20Shruti-Sambeg-2015-03-03%20%28Chisapani%20Nepal%29.mp3"
+      }
+    ]
   },
   {
     "title": "Ghoda | Santule Chakai",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Ghoda | Santule Chakai Full Audio",
+        "audioSource": "https://ia902603.us.archive.org/4/items/StoriesFromDasLaharInShrutiSambeg20150227ChisapanINepal/Stories%20from%20Das%20Lahar%20in%20Shruti-Sambeg-2015-02-27%28ChisapanI%20Nepal%29.mp3"
+      }
+    ]
   },
   {
     "title": "Sanskar | Bhoot | Rajendra Bimal ka Kathaharu",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Sanskar | Bhoot | Rajendra Bimal ka Kathaharu Full Audio",
+        "audioSource": "https://archive.org/download/DrRajendraBimalRajendraBimalKaKathaharu/Dr%20Rajendra%20Bimal%20-%20Rajendra%20Bimal%20ka%20kathaharu%20-%20Sanskar%20-%20Bhoot%20-%20Shruti-Sambeg-2015-03-10.mp3"
+      }
+    ]
   },
   {
     "title": "Ghat Pratighat | Jindagi, a Time Bomb | Dhurba Sapkota",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Ghat Pratighat | Jindagi, a Time Bomb | Dhurba Sapkota Full Audio",
+        "audioSource": "https://archive.org/download/DhrubaSapkotaUchchaaran/Dhruba%20Sapkota%20-%20Uchchaaran%20katha%20Sangraha%20-%20Ghat%20Pratighat%20-%20Jindagi%20arthat%20timebomb%20-%20%20Shruti-Sambeg%20-2015-03-17.mp3"
+      }
+    ]
   },
   {
     "title": "Kalo Pot | Ragatle Latpatieka Jijibisha | Daulat Bikram Bista",
     "coverImageSourceUrl": " ",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Kalo Pot | Ragatle Latpatieka Jijibisha | Daulat Bikram Bista Full Audio",
+        "audioSource": "https://archive.org/download/DaulatBikramBistaGhauKaSatraChakkaKathasangraha/Daulat%20Bikram%20Bista%20-%20Ghau%20Ka%20satra%20Chakka%20Kathasangraha%20-%20Kalo%20Pat%20-%20Ragatle%20Latpatiyeka%20Jijibisa%20-%20Shruti-Sambeg%20-2015-02-20.mp3"
+      }
+    ]
   },
   {
     "title": "Dallo and Flight Number 717 | Lenin Banjade",
     "coverImageSourceUrl": "http://4.bp.blogspot.com/-vGUsejVyoyU/VbMItMYNmhI/AAAAAAAAC1Q/iiL9p0s3apM/s1600/LENIN%2BBANJADE.jpg.jpg",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Dallo and Flight Number 717 | Lenin Banjade Full Audio",
+        "audioSource": "https://archive.org/download/LeninBanjade/Lenin%20Banjade%20-%20Lenin%20Banjade%20ka%20kathaharu%20-%20Dallo%20-%20Flight%20number%20717%20-%20Shruti-Sambeg%20-2015-07-17.mp3"
+      }
+    ]
   },
   {
     "title": "Abhisapta | Sambandhahin Sambandha haru",
     "coverImageSourceUrl": "http://2.bp.blogspot.com/-bdcVZSLBrUQ/VbMpZm7PdqI/AAAAAAAAC1g/1rPW8N8FaLY/s1600/Sambandahin_Sambanda_Haru_Babita%2BBasnet.jpg",
-    "chapters": []
-  },
-  {
-    "title": "Maile Dekheko Darbar | Bibek Kumar Shah",
-    "coverImageSourceUrl": "http://4.bp.blogspot.com/-AwqHJ5cq47E/VYAr58OQyqI/AAAAAAAAC0U/Sr11NKzzY8U/s320/MAILE%2BDEKHEKO%2BDARBAR.JPG",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Abhisapta | Sambandhahin Sambandha haru Full Audio",
+        "audioSource": "https://archive.org/download/BabitaBasnet/Babita%20Basnet%20-%20Sambandhahin%20Sambandhaharu%20-%20Abishapta%20Khusi%20-%20Sambandhahin%20Sambandhaharu%20-%20Shruti-Sambeg%20-2015-07-10.mp3"
+      }
+    ]
   },
   {
     "title": "Yuddha | Matapitalai Sodhnuhos | Aama Januhos | Maya Thakuri",
     "coverImageSourceUrl": "http://2.bp.blogspot.com/-jLWTOUipPZo/VO7g7alLplI/AAAAAAAACvY/RQaBpRjyidM/s200/%2B%2BAmaa%2B%2B%2BJanuhos.JPG",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Yuddha | Matapitalai Sodhnuhos | Aama Januhos | Maya Thakuri Full Audio",
+        "audioSource": "https://archive.org/download/MayaThakuriAamaJanuhos/Maya%20Thakuri%20-%20Aama%20Januhos%20Katha%20Sangraha%20-%20Yuddha%20-%20MataPita%20lai%20Sodhnuhos%20-%20Shruti-Sambeg%20-2015-02-24.mp3"
+      }
+    ]
   }
-]}
+]
